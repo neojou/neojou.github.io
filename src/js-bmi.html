@@ -1,0 +1,34 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5"/>
+<title>BMI</title>
+
+<script type="text/javascript">
+
+function bmi_cal() {
+    var h=eval(bmi.h.value);
+    var w=eval(bmi.w.value);
+    if (h == 0) {
+        bmi.ans.value="資料錯誤";
+        return;
+    }
+    var b=w/(h*h);
+    bmi.ans.value=b;
+}
+
+</script>
+
+</head>
+
+<body>
+<h2>BMI計算器</h2>
+<form method="post" action="" name="bmi" id="bmi">
+請輸入:<br>
+身高:<input type="text" name="h" size="10"/>
+體重:<input type="text" name="w" size="10"/>
+<input type="button" name="bmi_button" value="計算" onclick="bmi_cal()">
+BMI是：<input type="text" name="ans" size="10"/>
+</form>
+</body>
+</html>
+
