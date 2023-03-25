@@ -6,19 +6,27 @@
 <script type="text/javascript">
 
 function isNumeric(x) {
-    return (!isNaN(x) && isFinite(x));
+    var n = parseFloat(x);
+    return (!isNaN(n) && isFinite(n));
 }
 
 function bmi_cal() {
-    var h = eval(bmi.h.value);
-    var w = eval(bmi.w.value);
-    if (!isNumeric(bmi.h.value) || !isNumeric(bmi.w.value) || h  == 0) {
+    if (!isNumeric(bmi.h.value) || !isNumeric(bmi.w.value)) {
         bmi.ans.value="資料錯誤";
         return;
     }
+
+    var h = eval(bmi.h.value);
+    var w = eval(bmi.w.value);
+    if (h == 0) {
+        bmi.ans.value="身高不能為0";
+        return;
+    }
+
     var h_m = h/100;
     var b = w/(h_m * h_m);
-    bmi.ans.value=b;
+    var b_f2 = Math.round((b + Number.EPSILON) * 100) / 100;
+    bmi.ans.value=b_f2;
 }
 
 </script>
