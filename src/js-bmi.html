@@ -5,14 +5,19 @@
 
 <script type="text/javascript">
 
+function isNumeric(x) {
+    return (!isNaN(x) && isFinite(x));
+}
+
 function bmi_cal() {
-    var h=eval(bmi.h.value);
-    var w=eval(bmi.w.value);
-    if (h == 0) {
+    var h = eval(bmi.h.value);
+    var w = eval(bmi.w.value);
+    if (!isNumeric(bmi.h.value) || !isNumeric(bmi.w.value) || h  == 0) {
         bmi.ans.value="資料錯誤";
         return;
     }
-    var b=w/(h*h);
+    var h_m = h/100;
+    var b = w/(h_m * h_m);
     bmi.ans.value=b;
 }
 
