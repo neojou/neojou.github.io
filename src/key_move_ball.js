@@ -28,7 +28,7 @@ function handleKeyPress(e) {
       if (ballY < ballMargin) {
           ballY = ballMargin;
       }
-    } else if (event.key == "arrowDown") {
+    } else if (event.key == "ArrowDown") {
       ballY += 10;
       if (ballY > containerHeight - ballMargin) {
           ballY = containerHeight - ballMargin;
