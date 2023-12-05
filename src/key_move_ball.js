@@ -7,8 +7,8 @@ document.addEventListener("keydown", handleKeyPress);
 function handleKeyPress(e) {
     if (event.key === "ArrowLeft") {
       ballPosition -= 10;
-      if (ballPosition < 0) {
-        ballPosition = 0;
+      if (ballPosition < ball.offsetWidth) {
+        ballPosition = ball.offsetWidth;
       }
       ball.style.left = ballPosition + "px";
     } else if (event.key === "ArrowRight") {
@@ -18,6 +18,7 @@ function handleKeyPress(e) {
       }
       ball.style.left = ballPosition + "px";
     }
+    refresh();
 }
 
 function refresh() {
