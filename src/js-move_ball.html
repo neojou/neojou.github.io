@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=big5"/>
+  <title>按鍵控制小球移動</title>
+    #container {
+      width: 400px;
+      height: 200px;
+      position: relative;
+      border: 1px solid #000;
+    }
+    #ball {
+      width: 50px;
+      height: 50px;
+      background-color: red;
+      border-radius: 50%;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  </style>
+</head>
+<body>
+  <h1>按鍵控制小球移動</h1>
+  <div id="container">
+    <div id="ball"></div>
+  </div>
+
+  <script src="key_move_ball.js"></script>
+</body>
+</html>
+
