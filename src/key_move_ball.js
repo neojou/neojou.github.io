@@ -22,6 +22,6 @@ function handleKeyPress(e) {
 }
 
 function refresh() {
-    ball.style.left = ballPostion + "px";
+    ball.style.left = ballPosition + "px";
 }
 
