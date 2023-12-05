@@ -13,22 +13,22 @@ document.addEventListener("keydown", handleKeyPress);
 
 function handleKeyPress(e) {
     let ballMargin = ball.offsetWidth / 2;
-    if (event.key === "ArrowLeft") {
+    if (e.key === "ArrowLeft") {
       ballX -= 10;
       if (ballX < ballMargin) {
         ballX = ballMargin;
       }
-    } else if (event.key === "ArrowRight") {
+    } else if (e.key === "ArrowRight") {
       ballX += 10;
       if (ballX > containerWidth - ballMargin) {
         ballX = containerWidth - ballMargin;
       }
-    } else if (event.key == "ArrowUp") {
+    } else if (e.key == "ArrowUp") {
       ballY -= 10;
       if (ballY < ballMargin) {
           ballY = ballMargin;
       }
-    } else if (event.key == "ArrowDown") {
+    } else if (e.key == "ArrowDown") {
       ballY += 10;
       if (ballY > containerHeight - ballMargin) {
           ballY = containerHeight - ballMargin;
