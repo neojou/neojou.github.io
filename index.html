@@ -1,18 +1,78 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>JavaScript 範例程式</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Matrix Rain</title>
+  <style>
+    html,body{margin:0;height:100%;background:#000;overflow:hidden;}
+    canvas{display:block;}
+  </style>
 </head>
 <body>
-<h3>JavaScript 範例程式</h3>
-<ol>
-<li><a href="src/js-demo1.html"> Hello World </a><br/></li>
-<li><a href="src/js-bmi.html"> BMI 計算器 </a><br/></li>
-<li><a href="src/js-move_ball.html"> 移動小球 </a><br/></li>
-<li><a href="my-kotlin-js-app/index.html"> Kotlin/JS </a><br/></li>
-<li><a href="ml-tic-tac-toe/index.html"> ML Tic-Tac-Toe </a><br/></li>
-</ol>
+<canvas id="c"></canvas>
+<script>
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+
+function resize(){
+  canvas.width = window.innerWidth * devicePixelRatio;
+  canvas.height = window.innerHeight * devicePixelRatio;
+  canvas.style.width = window.innerWidth + "px";
+  canvas.style.height = window.innerHeight + "px";
+  ctx.setTransform(devicePixelRatio,0,0,devicePixelRatio,0,0);
+  initDrops();
+}
+window.addEventListener('resize', resize);
+
+const chars = "01";
+let fontSize = 18;
+let columns = 0;
+let drops = [];
+
+function initDrops(){
+  columns = Math.floor(window.innerWidth / fontSize);
+  drops = Array.from({length: columns}, () => Math.floor(Math.random() * 50));
+}
+
+function draw(){
+  // 半透明黑底：殘影/拖尾
+  ctx.fillStyle = "rgba(0,0,0,0.08)";
+  ctx.fillRect(0, 0, window.innerWidth, window.innerHeight);
+
+  ctx.font = `${fontSize}px monospace`;
+
+  for (let i = 0; i < drops.length; i++){
+    const x = i * fontSize;
+    const y = drops[i] * fontSize;
+
+    // 綠->黃亮度漸變（越接近頭部越偏黃）
+    const t = Math.min(1, y / window.innerHeight);
+    const g = 255;
+    const r = Math.floor(0 + 220 * t);
+    const b = Math.floor(0 + 80 * t);
+    ctx.fillStyle = `rgb(${r},${g},${b})`;
+
+    const ch = chars[(Math.random() * chars.length) | 0];
+    ctx.fillText(ch, x, y);
+
+    // 落到底部後以隨機機率重置回頂端
+    if (y > window.innerHeight && Math.random() > 0.975) drops[i] = 0;
+    drops[i]++;
+  }
+
+  requestAnimationFrame(draw);
+}
+
+resize();
+draw();
+const targetUrl = "https://njiot.blogspot.tw"; // 改成你的網址
+
+setTimeout(() => {
+  window.location.replace(targetUrl);
+}, 6_000);
+
+</script>
 </body>
 </html>
- 
+
