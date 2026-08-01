@@ -1,6 +1,0 @@
-1:"$Sreact.fragment"
-2:I[54534,["/japanese-house-3d/_next/static/chunks/158myu8e_yme3.js","/japanese-house-3d/_next/static/chunks/42gqm-dhw38cn.js","/japanese-house-3d/_next/static/chunks/39nv-13z8ke3o.js"],"SceneLoader"]
-3:I[97367,["/japanese-house-3d/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex h-dvh w-full flex-col overflow-hidden bg-slate-900","children":["$","$L2",null,{}]}],[["$","script","script-0",{"src":"/japanese-house-3d/_next/static/chunks/42gqm-dhw38cn.js","async":true}],["$","script","script-1",{"src":"/japanese-house-3d/_next/static/chunks/39nv-13z8ke3o.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"th3BmUeThTt_z7NQ8FucM"}
-5:null
