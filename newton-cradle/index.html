@@ -1,36 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-Hant">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <title>Newton's Cradle</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>牛頓擺</title>
     <style>
-        html, body {
-            width: 100%;
-            height: 100%;
-            height: 100dvh;
-            margin: 0;
+        body {
+            background-color: black;
+            border: 0;
             padding: 0;
+            margin: 0;
             overflow: hidden;
-            background: #0c0c0c;
-            touch-action: none;
-            -webkit-user-select: none;
-            user-select: none;
-            -webkit-touch-callout: none;
-            overscroll-behavior: none;
-            position: fixed;
-            inset: 0;
         }
         canvas {
-            touch-action: none;
-            outline: none;
+            width: 100vw;
+            height: 100vh;
+            display: block;
         }
     </style>
 </head>
 <body>
-<script type="application/javascript" src="composeApp.js"></script>
+    <!-- tabindex is required so the canvas can take keyboard focus. -->
+    <canvas id="glCanvas" tabindex="0">
+        這個瀏覽器不支援 canvas。
+    </canvas>
+    <script src="composeApp.js"></script>
 </body>
 </html>
