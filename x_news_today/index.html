@@ -13,15 +13,14 @@
   <script>
     window.$docsify = {
       name: 'X News Today',
-      loadSidebar: true,         // 啟用側邊欄
-      homepage: 'x_news-5-11.md', // 預設首頁
+      homepage: 'x_news-5-11.md',
       
-      // 💡 關鍵修正 1：移除原本複雜的 alias，改用這個強迫定位
+      // 💡 告訴 Docsify 你的側邊欄檔案叫 sidebar.md（去掉底線）
+      loadSidebar: 'sidebar.md', 
+      
       alias: {
         '/sidebar.md': 'sidebar.md'
       },
-      
-      // 💡 關鍵修正 2：確保在 GitHub Pages 子路徑下的路由能正常運作
       relativePath: true
     }
   </script>
