@@ -1,21 +1,30 @@
-# 今日X財經｜昨天 23:00–今天 05:00（台北）
-
-時間範圍：2026-11-09 23:00–2026-11-10 05:00（台北，含起點不含終點）。來源帳號：@goto_finance、@nikkei、@BloombergJapan、@yurumazu、@fx_musashi、@nicosokufx（此時段有貼文的是 @nikkei、@BloombergJapan、@nicosokufx、@yurumazu）。
+# 今日 X 財經 23-5（台北 昨天 23:00–今天 05:00）
+日期：2026-11-10 → 2026-11-11｜共 30 則原創／引用貼文｜來源：@goto_finance、@nikkei、@BloombergJapan、@yurumazu、@fx_musashi、@nicosokufx（台北時間）
 
 ## 1. 美元日圓利率匯率相關
-- **FRB 官員發言**：@BloombergJapan 報導里奇蒙聯銀總裁表示，FRB 需要追加升息，但步調要謹慎。[原文](https://x.com/BloombergJapan/status/2119863895628112179)
-- **芝加哥聯銀總裁**：@BloombergJapan 報導其認為 AI 投資帶來需求過熱跡象，需因應高通膨。[原文](https://x.com/BloombergJapan/status/2119841209707315240)
-- **通膨預期**：@BloombergJapan 報導紐約聯銀調查顯示美國消費者通膨預期大致持平，就業展望好壞互見。[原文](https://x.com/BloombergJapan/status/2119860113968119824)
-
-## 4. 日股 軟體銀行
-- @nicosokufx：夜盤中キオクシア +9% 以上、ソフトバンクG +7% 以上，輝達下跌 5% 以上。[原文](https://x.com/nicosokufx/status/2119838190031032647)
+- 10 月美國核心 CPI 月增 0.3%，高於預期 0.2%，助長 12 月升息觀測（Bloomberg 兩則）｜[BloombergJapan 23:15](https://x.com/BloombergJapan/status/2120173600577593660)、[BloombergJapan 23:30](https://x.com/BloombergJapan/status/2120177394686230703)
+- Bloomberg：日圓兌美元跌至 158.70 圓、美國殖利率上升，CPI 強化升息預期｜[BloombergJapan 23:45](https://x.com/BloombergJapan/status/2120181175490687275)
+- Emin Yurumazu：CPI 較 9 月降溫但高於預期，12 月升息幾乎確定，也有可能是 0.5% 而非 0.25%；日股在關鍵阻力線盤整，若 0.5% 升息成真，AI 相關賣壓仍將持續（引 note 文章）｜[yurumazu 00:09](https://x.com/yurumazu/status/2120187121361465432)
+- 達拉斯聯儲總裁認為升息步伐可能需加快，主張兩次以上（Bloomberg）｜[BloombergJapan 00:16](https://x.com/BloombergJapan/status/2120188748918923553)
+- にこそく：美 10 年期公債殖利率「升至 5% 台」（強勁 CPI 後）｜[nicosokufx 00:47](https://x.com/nicosokufx/status/2120196770668089556)
+- Bloomberg：ECB 納格爾稱 12 月升息有充分理由，憂心通膨｜[BloombergJapan 02:31](https://x.com/BloombergJapan/status/2120222775470129193)
+- Bloomberg 歐洲市況：公債下跌，反映美升息觀測擴大，股市接近高點；美股因高於預期的 CPI 與官員發言走弱｜[BloombergJapan 03:01](https://x.com/BloombergJapan/status/2120230340216127779)、[BloombergJapan 03:31](https://x.com/BloombergJapan/status/2120237899673149773)
 
 ## 7. 其他 AI 相關財經新聞
-- **美股反彈與輝達**：@nikkei 報導紐約道瓊開盤反彈，因油價走低一度上漲 840 美元，NVIDIA 下跌。[原文](https://x.com/nikkei/status/2119817080488779993)　@nicosokufx 的 AI、半導體資金流向：那斯達克 +2.42%、SOX 指數 +5.44%、DRAM +5.55%、MAGS +2.59%，稱對 AI 規制的過度警戒消退。[原文](https://x.com/nicosokufx/status/2119818136119881831)　@BloombergJapan：美股上漲、科技股逢低買進，輝達約跌 9% 後跌勢趨緩。[原文](https://x.com/BloombergJapan/status/2119822391429767229)　@yurumazu 指出 NVIDIA 以外多數反彈，那斯達克正測試上週跌破的 200 日 EMA。[原文](https://x.com/yurumazu/status/2119843404129730646)
-- **輝達 CEO 事件**：@nikkei 報導輝達因黃仁勳（原文為「ファン」）涉間諜疑惑股價跌 9%，國會跨黨派追究。[報導](https://x.com/nikkei/status/2119880569425195291)　@BloombergJapan：事件凸顯繼任者缺位風險[報導](https://x.com/BloombergJapan/status/2119871410222797098)；專欄稱領袖權威失墜、熊市將至，AI 基礎建設開發難免受影響[專欄](https://x.com/BloombergJapan/status/2119848757978153053)；事件可能波及整個 AI 產業[報導](https://x.com/BloombergJapan/status/2119894063654609006)。@yurumazu 的個人推測：可能是輝達刻意向中國輸送 GPU，因民主黨勝選預見會被國會調查而自行放出此故事（原文為提問語氣，屬個人推測）。[貼文](https://x.com/yurumazu/status/2119844728615428275)
-- **AI 市場與資金**：@nikkei 報導 AI 行情轉為不利，對沖基金損失連鎖，警戒換金賣壓造成「二番底」。[原文](https://x.com/nikkei/status/2119868495982637380)　@BloombergJapan：華爾街堅持 AI 投資，即便科技股歷史性回吐也不動搖。[原文](https://x.com/BloombergJapan/status/2119833736720122167)　@nikkei：CoreWeave 以 23 兆日圓的籌資走鋼索，與 NVIDIA 關係密切。[原文](https://x.com/nikkei/status/2119884092846067974)
-- **Anthropic**：@BloombergJapan 報導 Anthropic 在動盪市場中 IPO 正逢關鍵，近期將展開行銷。[原文](https://x.com/BloombergJapan/status/2119829954686853130)　@nikkei 報導其估值可能修正至約 230 兆日圓前後，IPO 熱度遇民主黨冷水[原文](https://x.com/nikkei/status/2119888622031630562)；另有一篇談 Anthropic 發現 AI「感情」的報導。[原文](https://x.com/nikkei/status/2119868495013831009)
-- **G7**：@nikkei 報導 G7 領袖將線上討論 AI 安全對策，首相高市也出席。[原文](https://x.com/nikkei/status/2119818591079952498)
+- 台積電董事會核准分別對 Anthropic 與 OpenAI 最多各投資 5 億美元（Bloomberg）｜[BloombergJapan 23:00](https://x.com/BloombergJapan/status/2120169819152564305)
+- 輝達股價走弱：にこそく稱「賣壓不止」、較 10/6 高點下跌 30%、盤中 -6.5%；Emin Yurumazu 稱年初至今下跌 10%｜[nicosokufx 23:16](https://x.com/nicosokufx/status/2120173790734979304)、[nicosokufx 23:33](https://x.com/nicosokufx/status/2120177927879106859)、[yurumazu 00:06](https://x.com/yurumazu/status/2120186319179812927)、[nicosokufx 01:04](https://x.com/nicosokufx/status/2120200818813194546)
+- にこそく：CPI 後 AI、半導體資金流向出現明暗；另提 CoreWeave 為 AI 股下跌震源之一、AI 股由暴跌轉選股行情（私見）｜[nicosokufx 23:02](https://x.com/nicosokufx/status/2120170177837105593)、[nicosokufx 00:19](https://x.com/nicosokufx/status/2120189602023743921)、[nicosokufx 00:24](https://x.com/nicosokufx/status/2120190951272620387)
+- Bloomberg：Anthropic 營收 2030 年前將超 108 兆日圓（高盛預估）；另推出試算表等新工具對抗微軟｜[BloombergJapan 00:46](https://x.com/BloombergJapan/status/2120196311861358930)、[BloombergJapan 03:16](https://x.com/BloombergJapan/status/2120234120395596114)
+- Bloomberg：黃仁勳醜聞暴露對魅力型 CEO 的依賴｜[BloombergJapan 01:16](https://x.com/BloombergJapan/status/2120203874686410848)
+- Bloomberg：華爾街兩位老將為 AI 主導的股票避險基金募資｜[BloombergJapan 01:46](https://x.com/BloombergJapan/status/2120211434151764150)
+- Bloomberg：阿里巴巴申請其晶片設計部門 T-Head 在香港上市｜[BloombergJapan 00:01](https://x.com/BloombergJapan/status/2120184965241405733)
 
----
-未列入主題的貼文：17 則。
+## 未列入主題（8 則）
+- 11-10 23:23 台北｜@nikkei｜日経：小泉稱「支持首相連任」，談明年總裁選｜[原文 23:23](https://x.com/nikkei/status/2120175528397127781)
+- 11-11 00:31 台北｜@BloombergJapan｜Bloomberg：空襲警報不斷、平民傷亡增加，俄本土戰爭日常化｜[原文 00:31](https://x.com/BloombergJapan/status/2120192530348142981)
+- 11-11 01:01 台北｜@BloombergJapan｜Bloomberg：10 月對沖基金受難，Lokos 虧損 4.9%｜[原文 01:01](https://x.com/BloombergJapan/status/2120200092380455006)
+- 11-11 01:31 台北｜@BloombergJapan｜Bloomberg：華爾街獎金連三年增加｜[原文 01:31](https://x.com/BloombergJapan/status/2120207653355859972)
+- 11-11 02:01 台北｜@BloombergJapan｜Bloomberg：赫格塞斯反駁彈劾動向｜[原文 02:01](https://x.com/BloombergJapan/status/2120215216201908628)
+- 11-11 02:16 台北｜@BloombergJapan｜Bloomberg：豐田將在美生產最高時速 40 公里超小型車｜[原文 02:16](https://x.com/BloombergJapan/status/2120218996079313059)
+- 11-11 02:46 台北｜@BloombergJapan｜Bloomberg：IBM 終止部分職缺簽證與永居支援｜[原文 02:46](https://x.com/BloombergJapan/status/2120226558191206669)
+- 11-11 04:15 台北｜@BloombergJapan｜Bloomberg：美國 NSA 與網戰司令部自殺相繼，國會調查｜[原文 04:15](https://x.com/BloombergJapan/status/2120248913466646972)
