@@ -1,19 +1,3 @@
----
-title: "2040 前是否進入超富足社會，取決於實體供給、分配制度與意義重塑三層前置門檻能否依序跨過"
-aliases: [超富足社會倒推框架, 2040 超富足前置條件]
-tags: [evergreen, 未來學, 超富足, AI, 預測方法]
-status: 🌿 budding
-created: 2026-11-13
-updated: 2026-11-13
-review: 2026-12-13
-sources:
-  - https://epoch.ai/data-insights/llm-inference-price-trends
-  - https://www.lazard.com/media/kcfconhf/lazards-lcoeplus_vf.pdf
-  - https://www.ilo.org/sites/default/files/2025-05/WESOUpdate_May2025.pdf
-  - https://www.stat.go.jp/data/kakei/sokuhou/tsuki/?vm=r
-  - https://www.stat.go.jp/data/cpi/sokuhou/tsuki/pdf/zenkoku.pdf
----
-
 # 2040 前是否進入超富足社會，取決於實體供給、分配制度與意義重塑三層前置門檻能否依序跨過
 
 > [!summary] 核心主張
