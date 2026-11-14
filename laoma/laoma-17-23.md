@@ -1,43 +1,37 @@
-# 今日老馬｜2026-11-13 17:00–23:00（台北）
+# 今日老馬｜2026-11-14 17:00–23:00（台北）
 
-時間範圍：2026-11-13 17:00 至 23:00（台北，含起點不含終點）。來源：@elonmusk（含回覆、引用、轉發）；@bot、@grok、@SpaceXSI 原創貼文。本時段共 9 則（馬斯克 9；@bot、@grok、@SpaceXSI 無原創）。
+時間範圍：2026-11-14 17:00 至 23:00（台北，含起點不含終點）。來源：@elonmusk（含回覆、引用、轉發）；@bot、@grok、@SpaceXSI 原創貼文。本時段共 14 則（馬斯克 14；@bot、@grok、@SpaceXSI 無原創）。
 
-今日重點：馬斯克引用 Ship 42 移上 Starbase 發射台的貼文，並轉推 Flight 15「明天」；對 NVIDIA 董事會撤換創辦人的報導爭議回以「Hmm」。
+今日重點：馬斯克說黃仁勳在 NVIDIA 的許多供應鏈交易只是握手、沒有書面合約，少了他至少部分關鍵交易會流失；他轉推 SemiAnalysis 估計的 SpaceXSI 孟菲斯—密西西比園區將在 2026 年底達 2.4 GW；星艦完成 14 圈繞地後準備離軌、嘗試降落 Starbase。
 
 ## SpaceX／Starship／Starlink
 
-### 2026-11-13 17:34（台北）｜轉推 @SpaceX：德州與亞利桑那的超算社區投資
-馬斯克轉推 @SpaceX：從德州 Rio Grande Valley 到亞利桑那 Cochise County，SpaceX 蓋的不只是超級電腦，也在創造工作、投資基礎設施、擴大地方稅基。
-連結：[馬斯克轉推](https://x.com/elonmusk/status/2121174767562551693)、[轉推 @SpaceX](https://x.com/i/status/2120911785217986739)、[SpaceX Cochise County 頁面](http://spacex.com/sites/cochise-county)
+### 2026-11-14 22:30（台北）｜星艦繞地 14 圈後離軌、嘗試降落 Starbase
+馬斯克引用 @SpaceX「Starship in orbit over Africa」影片並寫：星艦正在完成 14 圈繞地，之後開始離軌並嘗試在 Starbase 降落；同時轉推該則。
+連結：[馬斯克引用](https://x.com/elonmusk/status/2121611711278981147)、[馬斯克轉推](https://x.com/elonmusk/status/2121611736902197480)、[@SpaceX 原帖](https://x.com/SpaceX/status/2121602376532742611)
 
-### 2026-11-13 22:33（台北）｜Starship 42 準備發射
-馬斯克引用一則「Ship 42 移到 Starbase 發射台準備發射」的貼文，配文「Starship 42 preparing for launch」。22:08 他也轉推 @anabology（別人的貼文）「SPACEX FLIGHT 15 TOMORROW」。推測：Flight 15 即將發射，但貼文未給確切日期與時間，未交日曆。
-連結：[馬斯克這則](https://x.com/elonmusk/status/2121250205806772283)、[引用貼文](https://x.com/i/status/2121044579470233638)、[馬斯克轉推](https://x.com/elonmusk/status/2121243784822309103)、[轉推 @anabology](https://x.com/i/status/2120952906207670615)
-
-## xAI／Grok
-
-### 2026-11-13 22:02（台北）｜「Grok is a straight shooter」
-馬斯克引用 @sundarpichai（別人的貼文）稱讚 @grok「Nice summary」的那則，配文「Grok 說話直來直往」。22:35 他也轉推 @mntruell（別人的貼文）：Bot 現在能找出你可能忘了回的簡訊並代為處理。
-連結：[馬斯克這則](https://x.com/elonmusk/status/2121242367684661286)、[引用 @sundarpichai](https://x.com/i/status/2121121962911273062)、[@grok 那則摘要](https://twitter.com/grok/status/2121111068332179528)、[馬斯克轉推](https://x.com/elonmusk/status/2121250645613429076)、[轉推 @mntruell](https://x.com/i/status/2120949456518709744)
+### 2026-11-14 21:55（台北）｜發射影像轉推
+馬斯克轉推 @AJamesMcCarthy（別人的貼文）的發射影片與發射台旁慢動作升空影片，以及 @cb_doge 分享的 SpaceX 官方星艦 3D 解說動畫。
+連結：[馬斯克轉推](https://x.com/elonmusk/status/2121602899088486608)、[轉推 @AJamesMcCarthy](https://x.com/AJamesMcCarthy/status/2121384142474760511)、[馬斯克轉推](https://x.com/elonmusk/status/2121617733221818612)、[轉推 @AJamesMcCarthy 慢動作](https://x.com/AJamesMcCarthy/status/2121608679837368375)、[馬斯克轉推](https://x.com/elonmusk/status/2121605193209151656)、[轉推 @cb_doge](https://x.com/cb_doge/status/2121369567058674079)
 
 ## AI 與資料中心
 
-### 2026-11-13 22:36（台北）｜NVIDIA 董事會「被誤導撤換創辦人」？
-馬斯克引用一則貼文（別人的貼文）：質疑記者把來路不明的傳言包裝成情報官員消息，誤導 NVIDIA 董事會逼走創辦人兼執行長，稱這是嚴重的公司治理問題。馬斯克配文「Hmm」。
-連結：[馬斯克這則](https://x.com/elonmusk/status/2121250804447445203)、[引用貼文](https://x.com/i/status/2121083415487205652)
+### 2026-11-14 22:37（台北）｜「Jensen 的很多供應鏈交易只是握手」
+馬斯克引用 @CEOinterview（別人的貼文：Dylan Patel 說黃仁勳親自說服小供應商讓 NVIDIA 包下產能，他一離開 Google 已在向供應鏈求產能），寫道：Jensen 在 NVIDIA 把供應鏈做得極好，但很多交易是與 Jensen 握手、不是書面合約；沒有 Jensen，至少部分關鍵交易會流失。並轉推 @firesidealpha（Dylan Patel 稱 Google TPU 在其夜間基準測試與 NVIDIA 一樣好，少了 Jensen 的交涉能力 Google 可能拿下大量市占）、@SemiAnalysis_（擔心 NVIDIA 人才外流、Rubin 若有製造問題會解決得更慢）。
+連結：[馬斯克引用](https://x.com/elonmusk/status/2121613402846204253)、[引用 @CEOinterview](https://x.com/CEOinterview/status/2121291797473468421)、[馬斯克轉推](https://x.com/elonmusk/status/2121614151768248683)、[轉推 @firesidealpha](https://x.com/firesidealpha/status/2121070130935570607)、[馬斯克轉推](https://x.com/elonmusk/status/2121608636598493274)、[轉推 @SemiAnalysis_](https://x.com/SemiAnalysis_/status/2121462524281282700)
+
+### 2026-11-14 22:45（台北）｜SemiAnalysis：SpaceXSI 園區 2026 年底達 2.4 GW
+馬斯克轉推 @cb_doge（別人的貼文，引述 SemiAnalysis 估計）：SpaceXSI 約 5 個月完成 MiniHard，Gun Range（田納西—密西西比州界南側）目標約 4 個月；Colossus 1 首次改造 122 天交付 150 MW，Colossus 2 改造 91 天交付 210 MW；Project SPAM 10 月 5 日動工、首批容量目標 12 月；孟菲斯—密西西比園區 IT 容量預估從 1 月 0.4 GW 增至 2026 年底 2.4 GW；Colossus 2 有 1,377 台 Tesla Megapack、近 6 GWh 儲能。原帖註明時程與容量為 SemiAnalysis 估計、未來里程碑仍屬目標。另轉推 @bowie_HQ：黃仁勳稱馬斯克團隊 19 天建好液冷、10 萬 GPU 訓練廠「superhuman」。
+連結：[馬斯克轉推](https://x.com/elonmusk/status/2121615415155806253)、[轉推 @cb_doge](https://x.com/cb_doge/status/2121586977795440798)、[馬斯克轉推](https://x.com/elonmusk/status/2121605675768054043)、[轉推 @bowie_HQ](https://x.com/bowie_HQ/status/2121493879870677332)
 
 ## 政治時事
 
-### 2026-11-13 22:05（台北）｜轉推：南非白人農場主遇襲證詞
-馬斯克轉推 @TRobinsonNewEra（別人的貼文）：一名南非白人農場主首度描述遭襲經過，稱歹徒施以酷刑並威脅其妻，「不只是搶劫」。
-連結：[馬斯克轉推](https://x.com/elonmusk/status/2121243017084588373)、[轉推 @TRobinsonNewEra](https://x.com/i/status/2120990056177381823)
+### 2026-11-14 22:46（台北）｜威州參議員主導預算
+@DanODonnellShow（別人的貼文）稱曾在威斯康辛州參議院說「F*** the suburbs」的民主黨人 LaTonya Johnson 如今負責撰寫州預算。馬斯克回覆「Hmm」。
+連結：[馬斯克回覆](https://x.com/elonmusk/status/2121615638812918154)、[回覆 @DanODonnellShow](https://x.com/DanODonnellShow/status/2120936439474966818)
 
-### 2026-11-13 22:35（台北）｜歐盟撤回仇恨言論入罪提案
-@ADFIntl（別人的貼文）稱歐盟執委會撤回把仇恨言論列為犯罪的提案，是對抗審查的重要勝利。馬斯克回覆「Good」。
-連結：[馬斯克回覆](https://x.com/elonmusk/status/2121250585068364172)、[回覆 @ADFIntl](https://x.com/i/status/2120913968483197014)
+## 其他
 
-## X 平台與資訊辨別
-
-### 2026-11-13 22:09（台北）｜轉推：Ring 攝影機事件「真相」
-馬斯克轉推 @SarahisCensored（別人的貼文）：稱事件真相終於出來，當事人先前已在另外四台 Ring 攝影機前做過同樣的惡作劇，且雙方都已承認...；作者說這正是她不急著跟風憤怒的原因。
-連結：[馬斯克轉推](https://x.com/elonmusk/status/2121244058379321642)、[轉推 @SarahisCensored](https://x.com/i/status/2120992791425581120)
+### 2026-11-14 21:48（台北）｜Neuralink 使用者創作、友誼話題
+馬斯克轉推 @Scobleizer「Made with @neuralink」與 @Cyborg21（別人的貼文）：一位 ALS 患者靠腦植入與 AI 工具做出的作品「ALLOW ALWAYS」首映。另轉推 @benitoz 以他「患難見真情」一說連到他簽署讓 Jensen 復職連署。
+連結：[馬斯克轉推](https://x.com/elonmusk/status/2121601112574959630)、[轉推 @Scobleizer](https://x.com/Scobleizer/status/2121548642805026939)、[馬斯克轉推](https://x.com/elonmusk/status/2121601125237600677)、[轉推 @Cyborg21](https://x.com/Cyborg21/status/2117044016621748292)、[馬斯克轉推](https://x.com/elonmusk/status/2121610300981981497)、[轉推 @benitoz](https://x.com/benitoz/status/2121358030747078974)
