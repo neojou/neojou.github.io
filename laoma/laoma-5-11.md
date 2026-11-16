@@ -1,43 +1,41 @@
-# 今日老馬｜2026-11-15 05:00–11:00（台北）
+# 今日老馬｜2026-11-16 05:00–11:00（台北）
 
-時間範圍：2026-11-15 05:00 至 11:00（台北，含起點不含終點）。來源：@elonmusk（含回覆、引用、轉發）；@bot、@grok、@SpaceXSI 原創貼文。本時段共 30 則（馬斯克 30；@bot、@grok、@SpaceXSI 無原創）。
+時間範圍：2026-11-16 05:00 至 11:00（台北，含起點不含終點）。來源：@elonmusk（含回覆、引用、轉發）；@bot、@grok、@SpaceXSI 原創貼文。本時段共 27 則（馬斯克 27；@bot、@grok、@SpaceXSI 無原創）。
 
-今日重點：星艦第 15 次飛行的 Ship 42 在繞地 14 圈後返回 Starbase 並被發射塔「接住」，史上首次 Starship 船艙段回收；馬斯克親赴塔上檢視並擁抱 Ship 42。另引用用戶貼文推 Grok Bot 代打電話改機票的用例。
+今日重點：星艦第 15 次飛行接回 Ship 42 後，馬斯克親自檢查隔熱罩，稱 Ship 42 約需數週整修即可再飛，並透露 Starship V4 約 70 公尺、9 具引擎；另反駁「誰砸錢都做得出 SpaceX」的說法。
+
+## Tesla
+
+### 2026-11-16 09:57（台北）｜轉推 Joe Rogan 稱讚 FSD
+馬斯克轉推 @cb_doge（別人的貼文）：Joe Rogan 說離開俱樂部按個鈕車子就自己開回家，「If Tesla licensed that, the whole electric car world would explode because it's so good」。馬斯克未加評論。
+連結：[馬斯克轉推](https://x.com/elonmusk/status/2122147070132052059)、[@cb_doge 原帖](https://x.com/cb_doge/status/2122050855499366681)
+
+### 2026-11-16 10:30（台北）｜「Robotaxi life is a hard life」
+馬斯克原創貼文附一張照片，寫「Robotaxi life is a hard life. Tesla team empathizes with this guy.」照片內容文字未提供。
+連結：[馬斯克這則](https://x.com/elonmusk/status/2122155440788099394)
 
 ## SpaceX／Starship／Starlink
 
-### 2026-11-15 06:05（台北）｜星艦 Ship 42 首次被塔接住
-馬斯克原創「Congratulations to an incredible team at SpaceX!!!」附影片。轉推 @SpaceX（別人的貼文）：星艦 11/13 自 Starbase 升空第 15 次飛行，11/14 返回 Starbase 並「changed everything」，附 [SpaceX Flight 15 頁面](https://www.spacex.com/launches/starship-flight-15)。引用 @cb_doge（別人的貼文）列出 2024-10-13、2025-01-16、2025-03-06 三次助推器回收與 2026-11-14 首次 Starship 回收，寫「Three booster catches and a ship」。轉推 @andrewrsorkin（別人的貼文）：SpaceX 在繞地 14 圈後接住 Starship，並引馬斯克 2023 年「Physics is the law. Everything else is a recommendation.」。
-連結：[馬斯克這則](https://x.com/elonmusk/status/2121726288968720709)、[轉推 @SpaceX](https://x.com/elonmusk/status/2121750673910075806)、[@SpaceX 原帖](https://x.com/SpaceX/status/2121738348804857963)、[馬斯克引用](https://x.com/elonmusk/status/2121759042582589821)、[引用 @cb_doge](https://x.com/cb_doge/status/2121719723805258178)、[轉推 @andrewrsorkin](https://x.com/elonmusk/status/2121750118835671432)、[@andrewrsorkin 原帖](https://x.com/i/status/2121745318618571231)
+### 2026-11-16 06:20（台北）｜親查 Ship 42 隔熱罩、透露 Starship V4 規格
+馬斯克引用「Elon 正在發射台檢查星艦」的貼文，說今天看過整個星艦隔熱罩，整體很好、引擎也很好，Ship 42 大概整修幾週就能再飛；但要達到像飛機那樣的「立即重複使用」（除定期保養外零整修）還需許多小修正。07:24 回覆 @MinaGawargious 說 Ship 42 帶回大量可改進隔熱罩的資料，並轉推其影片；09:23 引用 @owensparks 稱讚他親上升降車檢查，寫「This is the way」。09:33 引用 @apostructura 的星艦尺寸圖，說 Starship V4 將約 70 公尺長、長度增加約 40%、推進劑可多 60% 以上，引擎增至 9 具，新增 3 具 Raptor 真空引擎且為推力更高的 V4 引擎。10:32 轉推 @SawyerMerritt 引摩根士丹利 Adam Jonas：第 15 次飛行接回上節是「historic inflection moment」，為每週甚至每天飛行掃除最後一個重大技術里程碑。
+連結：[馬斯克引用（隔熱罩）](https://x.com/elonmusk/status/2122092374016806969)、[被引用原帖](https://x.com/i/status/2122060889901748577)、[回覆 @MinaGawargious](https://x.com/elonmusk/status/2122108594183414081)、[轉推 @MinaGawargious](https://x.com/elonmusk/status/2122108612860428490)、[引用 @owensparks](https://x.com/elonmusk/status/2122138555137110487)、[引用 @apostructura（V4 規格）](https://x.com/elonmusk/status/2122141019894383027)、[@apostructura 原帖](https://x.com/apostructura/status/2122078470121435372)、[轉推 @SawyerMerritt（Morgan Stanley）](https://x.com/elonmusk/status/2122155781785346141)、[@SawyerMerritt 原帖](https://x.com/SawyerMerritt/status/2122150555078234620)
 
-### 2026-11-15 06:36（台北）｜馬斯克現場檢視 Ship 42
-馬斯克原創「Inspecting ship 42 right now」與「Ship 42 looks great!」各附影片，之後貼出「Some phone videos I took from the tower」（從塔上用手機拍的兩段影片），並寫「I hugged ship 42 upon its return」。
-連結：[馬斯克這則（檢視）](https://x.com/elonmusk/status/2121733992726802703)、[馬斯克這則（looks great）](https://x.com/elonmusk/status/2121746382402797892)、[馬斯克這則（塔上影片）](https://x.com/elonmusk/status/2121763396190179414)、[馬斯克這則（擁抱）](https://x.com/elonmusk/status/2121763977349013884)
+### 2026-11-16 06:22（台北）｜Starlink 應用：聯航、希臘鐵路、多明尼加、巴西學校、三星晶片
+馬斯克連續引用或轉推別人的 Starlink 消息：@XFreeze 引聯合航空執行長 Scott Kirby，Starlink 已覆蓋聯航逾 50% 每日航班、逾 700 架飛機，預計 2027 年底全機隊完成，馬斯克寫「Starlink is a gamechanger」；@cb_doge 稱希臘政府用 Starlink 支援鐵路防撞系統（134 輛機車頭），他寫「Starlink saves lives」；轉推 @cb_doge 稱多明尼加總統會見 SpaceX 高層，境內已裝逾 5 萬組天線，並考慮引入 Grok Tutor 輔助教學；引用 @cb_doge 稱巴西 Rondonópolis 所有鄉村市立學校已有 Starlink，寫「Starlink helps rural schools with education」；轉推 @SawyerMerritt：三星將投資 19 億美元擴建德州奧斯汀廠，為 Starlink 雷射通訊生產 STM32V8 晶片，目標 2030 年前投產。
+連結：[引用 @XFreeze](https://x.com/elonmusk/status/2122092920434274773)、[@XFreeze 原帖](https://x.com/xfreeze/status/2121999050627301617)、[引用 @cb_doge（希臘）](https://x.com/elonmusk/status/2122109219855806886)、[@cb_doge 原帖](https://x.com/cb_doge/status/2122106773222154332)、[轉推 @cb_doge（多明尼加）](https://x.com/elonmusk/status/2122110047421661363)、[@cb_doge 原帖](https://x.com/cb_doge/status/2122101122072793431)、[引用 @cb_doge（巴西）](https://x.com/elonmusk/status/2122127527040712704)、[@cb_doge 原帖](https://x.com/cb_doge/status/2121955840370614708)、[轉推 @SawyerMerritt（三星）](https://x.com/elonmusk/status/2122127355502071854)、[@SawyerMerritt 原帖](https://x.com/SawyerMerritt/status/2122116284628320705)
 
-### 2026-11-15 07:18（台北）｜各界道賀，馬斯克回謝
-NASA 署長 @NASAAdmin（別人的貼文）道賀「one step closer to 🌖」，馬斯克轉推並回覆「Thanks to an incredible team at SpaceX 🚀🚀」。Google 的 @sundarpichai 稱「still feels like science fiction」，馬斯克回「Thanks ❤️」；也回覆 FCC 主委 @BrendanCarrFCC「❤️🇺🇸」、引用 @tedlieu 道賀說「Thanks」。引用 @walterisaacson（別人的貼文：2020 年 12 月馬斯克堅持用 Mechazilla 塔臂接 Starship）寫「The epic day has arrived」。轉推 @SciGuySpace 的 [Ars Technica 報導](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/)。
-連結：[馬斯克轉推](https://x.com/elonmusk/status/2121744536867066313)、[回覆 @NASAAdmin](https://x.com/elonmusk/status/2121744638650233057)、[@NASAAdmin 原帖](https://x.com/i/status/2121715782350504106)、[回覆 @sundarpichai](https://x.com/elonmusk/status/2121730339357823217)、[@sundarpichai 原帖](https://x.com/i/status/2121721987794174178)、[回覆 @BrendanCarrFCC](https://x.com/elonmusk/status/2121729161505243462)、[引用 @tedlieu](https://x.com/elonmusk/status/2121764319792677119)、[引用 @walterisaacson](https://x.com/elonmusk/status/2121759522851115109)、[@walterisaacson 原帖](https://x.com/walterisaacson/status/2121725076919717899)、[轉推 @SciGuySpace](https://x.com/elonmusk/status/2121766670834471176)
+### 2026-11-16 07:47（台北）｜反駁「誰砸錢都做得出星艦」
+馬斯克在 @dhh、@wholemars、@matthewstoller 的討論串長文回覆：若誰砸錢都能做出 Starship、Falcon、Dragon，那為何 SpaceX 能用「筷子」從軌道接回星艦、以 Falcon 運送地球 85% 的入軌酬載，而比 SpaceX 早成立、由貝佐斯出資的 Blue Origin 仍無法可靠發射？又為何波音與洛克希德拿到數倍的政府開發經費，波音太空艙仍未運作、ULA 入軌酬載不到 SpaceX 的 5%？隨後自己轉推。09:34 引用 @aaronburnett「建整座 Starbase 約 150 億美元，等於加州高鐵一座通往無處的高架橋」寫「True」；09:50 轉推 @WR4NYGov 類似論點。
+連結：[馬斯克回覆](https://x.com/elonmusk/status/2122114284779925897)、[自己轉推](https://x.com/elonmusk/status/2122114501554086197)、[引用 @aaronburnett](https://x.com/elonmusk/status/2122141116195877155)、[@aaronburnett 原帖](https://x.com/aaronburnett/status/2122116272725037236)、[轉推 @WR4NYGov](https://x.com/elonmusk/status/2122145343693598847)、[@WR4NYGov 原帖](https://x.com/WR4NYGov/status/2122104610643222844)
 
-另有 7 則類似（轉推 @johnkrausphotos 三張照片、@SawyerMerritt「4:20 PM ET 接住」、@ShanaDiez、@edwards345「火箭聖杯」，以及回覆 @willdepue「你這輩子有機會上太空」說「Yes」等）。例：[回覆 @willdepue](https://x.com/elonmusk/status/2121728990952247435)、[轉推 @SawyerMerritt](https://x.com/elonmusk/status/2121732719050977749)、[轉推 @edwards345](https://x.com/elonmusk/status/2121755853766504842)
-
-## xAI／Grok
-
-### 2026-11-15 09:02（台北）｜引用用戶分享 Grok Bot 打電話改機票
-馬斯克引用 @iiiichigo_chan（別人的貼文）寫「Try Grok @Bot」。原帖稱航班取消時，Grok Bot 代為打電話、表明是 AI，等候 11 分鐘後改到隔天 7:40 航班並要到旅館與餐食，加價選位則先問本人。
-連結：[馬斯克引用](https://x.com/elonmusk/status/2121770874885845044)、[引用 @iiiichigo_chan](https://x.com/iiiichigo_chan/status/2121664393725227299)
-
-### 2026-11-15 09:08（台北）｜轉推 Grok Bot 使用心得
-馬斯克轉推 @minheo93698092（別人的貼文，韓文）：Grok Bot 可被邀進視訊會議、幾乎不耗 token，若再加語音對話會引起很大迴響。另轉推 @robinebers（別人的貼文）：「Grok Bot is the only one that stuck」，並稱 ChatGPT Dots 已因 bug 與拒答而暫停、Claude Duet 沒做太多事。
-連結：[轉推 @minheo93698092](https://x.com/elonmusk/status/2121772407161774462)、[原帖](https://x.com/i/status/2121587902841020922)、[轉推 @robinebers](https://x.com/elonmusk/status/2121773526277370339)、[原帖](https://x.com/i/status/2121656933002408008)
-
-## 政治時事
-
-### 2026-11-15 09:11（台北）｜回應 Hinton 談白宮
-@theSethian（別人的貼文）轉述 Geoffrey Hinton 在 PBS Firing Line 說中國政治局比美國政府更懂 AI 風險，並稱白宮有「maybe a corrupt senile felon」，兩年內美中難合作。馬斯克回覆「Hinton still thinks the news is real」。
-連結：[馬斯克回覆](https://x.com/elonmusk/status/2121772977985585269)、[回覆 @theSethian](https://x.com/theSethian/status/2121546733779894611)
+另有 6 則類似：回覆 @ulalaunch（Vulcan 發射 Amazon 任務異常失敗）「Sorry to hear this. Hope you are back to flight soon.」；轉推並引用 @SawyerMerritt 整理的各大媒體「SpaceX 接回星艦」標題，寫「Cool」；引用 @firesidealpha（他說 2002 年創 SpaceX 時預期九成會失敗、因請不到好的首席工程師而自己當）寫「That's how it happened」；轉推 @yunta_tsai 與 @johnkrausphotos 的星艦影像。[回覆 @ulalaunch](https://x.com/elonmusk/status/2122108170176786732)、[轉推 @SawyerMerritt](https://x.com/elonmusk/status/2122137991032529140)、[引用 @SawyerMerritt](https://x.com/elonmusk/status/2122138040176894180)、[引用 @firesidealpha](https://x.com/elonmusk/status/2122141959917842487)、[轉推 @yunta_tsai](https://x.com/elonmusk/status/2122109971735408759)、[轉推 @johnkrausphotos](https://x.com/elonmusk/status/2122110142271361412)
 
 ## 其他
 
-### 2026-11-15 07:40（台北）｜情緒與玩笑轉推
-轉推 @willdepue「it feels great to be an american...」、@cb_doge「The next time you want to give up, think of this image」、@AJamesMcCarthy「Everything has changed.」照片；回覆 @yunta_tsai「The answer is 42」說「As foretold by the great prophet, Douglas Adams」（呼應 Ship 42）。
-連結：[轉推 @willdepue](https://x.com/elonmusk/status/2121750189513769337)、[轉推 @cb_doge](https://x.com/elonmusk/status/2121751860914929835)、[轉推 @AJamesMcCarthy](https://x.com/elonmusk/status/2121791280208581035)、[回覆 @yunta_tsai](https://x.com/elonmusk/status/2121791568055320994)、[@yunta_tsai 原帖](https://x.com/i/status/2121770885191483723)
+### 2026-11-16 06:21（台北）｜趣味與迷因
+引用 @yunta_tsai「S-tier Engineering, S-tier Humor 🍌」寫「🍌 4 scale」；09:54 原創貼文「Say no to crack」附圖；09:58 回覆 @brivael 一個「😂」。
+連結：[引用 @yunta_tsai](https://x.com/elonmusk/status/2122092646294581460)、[@yunta_tsai 原帖](https://x.com/yunta_tsai/status/2122035716763062681)、[馬斯克這則（Say no to crack）](https://x.com/elonmusk/status/2122146355074232469)、[回覆 @brivael](https://x.com/elonmusk/status/2122147239573295564)
+
+### 2026-11-16 09:50（台北）｜「我的訓練資料分布很廣」
+@cb_doge（別人的貼文）引前 NASA 太空人 Garrett Reisman 稱馬斯克能和軟體與焊接工程師都深談。馬斯克引用寫「I have a very wide distribution of training data」。
+連結：[馬斯克引用](https://x.com/elonmusk/status/2122145276681220436)、[@cb_doge 原帖](https://x.com/cb_doge/status/2122130157616128377)
