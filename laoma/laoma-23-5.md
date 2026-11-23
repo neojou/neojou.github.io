@@ -1,54 +1,54 @@
-# 今日老馬｜2026-11-22 23:00–2026-11-23 05:00（台北）
+# 今日老馬｜2026-11-23 23:00–2026-11-24 05:00（台北）
 
-範圍：2026-11-22 23:00 至 2026-11-23 05:00（台北，含起點不含終點）；來源：@elonmusk（含回覆、引用、轉發）、@bot、@grok、@SpaceXSI 原創。本時段共 16 則，全部為馬斯克（回覆 9、引用 4、轉發 3）；三個額外帳號本時段無新原創。
+範圍：2026-11-23 23:00 至 2026-11-24 05:00（台北，含起點不含終點）；來源：@elonmusk（含回覆、引用、轉發）、@bot、@grok、@SpaceXSI 原創。本時段共 21 則，全部為馬斯克（回覆 5、引用 4、轉發 12）；三個額外帳號本時段無新原創。
 
 **今日重點**
-- AI5 晶片：馬斯克回覆說「整體約一個數量級的硬體效能提升，記憶體頻寬是限制」；AI4.5 只是小幅提升，主要因 RAM 要升級到 LPDDR5X。
-- 引用 SpaceX：加州 4E 發射台 32 小時內再發射，創同台最快週轉。
-- 談訓練：明年訓練的挑戰會是資料匱乏（data starvation）。
-
-## Terafab
-
-### 2026-11-23 04:52（台北）｜「Tesla 超級智慧軟體、晶片設計與 Terafab 都是好玩的工作地點」
-引用 @julianibarz（端到端具身 AI 架構已量產上百萬輛車，更大的世界模型由 Autopilot 與 Optimus 共用，對 Optimus 的 3D 標註很重要，正在徵人，他人說法），寫：「Tesla super intelligence software, chip design & Terafab are fun places to work」。
-- [馬斯克這則](https://x.com/elonmusk/status/2124606900553863466)｜[引用 @julianibarz](https://x.com/i/status/2124559848444694824)
-
-## Tesla
-
-### 2026-11-23 03:09（台北）｜AI5 約一個數量級提升；AI4.5 小幅提升
-回覆 @XFreeze（貼文稱馬斯克證實 AI5 先給 Optimus、車輛續用 AI4，規格上比 AI4 總效能提升 50 倍，他人說法）：「綜合來看大約是一個數量級的硬體效能提升，記憶體頻寬是個限制。」03:26 回覆 @SawyerMerritt：「AI4.5 是相對小的效能提升，主要是因為需要把 RAM 升級到 LPDDR5X。」
-- [回覆 @XFreeze](https://x.com/elonmusk/status/2124581034419499420)｜[原貼 @XFreeze](https://x.com/i/status/2124523652242985416)｜[回覆 @SawyerMerritt](https://x.com/elonmusk/status/2124585347929767967)｜[原貼 @SawyerMerritt](https://x.com/i/status/2124523161672712428)
-
-### 2026-11-23 02:44（台北）｜FSD V15 即時建模多倫多街頭、世界模型勝過引擎
-回覆 @birdabo（V15 在多倫多市中心即時標出每輛車、行人與單車，他人說法）「Only a few」；02:46 回覆 @TimSweeneyEpic（首個世界模型勝過引擎的實際用例）「Yup」；03:24 轉發 @BastropBill：奧斯汀市區 Cybercab Robotaxi 停下、人類駕駛卻繼續開（他人說法）。
-- [回覆 @birdabo](https://x.com/elonmusk/status/2124574811691385068)｜[回覆 @TimSweeneyEpic](https://x.com/elonmusk/status/2124575371844809038)｜[轉推 @BastropBill](https://x.com/i/status/2124299164561326180)
-
-另有 3 則類似（TSLAQ 舊推文圖、員工讚美回覆「❤️」等）。
+- 黃仁勳回任 NVIDIA 執行長：馬斯克轉發白宮與川普賀詞、稱「我認識的 NVIDIA 人都想要 Jensen 回來」，並談「落難時挺你的才是真朋友」。
+- X Money 遭盜用第三方支付憑證案，美國司法部刑事司立案；馬斯克稱違法者不論身在何處「都會被起訴」。
+- 轉發 Aer Lingus 歐洲航線提供免費 Starlink Wi-Fi，2027 年初 29 架短程機上線（他人說法）。
 
 ## SpaceX／Starship／Starlink
 
-### 2026-11-23 03:42（台北）｜加州 4E 發射台 32 小時週轉創紀錄
-引用 @SpaceX：Falcon 9 載 NROL-136 從加州 4E 發射台升空，距 USSF-317 發射僅 32 小時，創同一發射台最快週轉（SpaceX 說法）。馬斯克寫：「32 小時發射台週轉。SpaceX 團隊幹得好。」
-- [馬斯克這則](https://x.com/elonmusk/status/2124589255565680900)｜[引用 @SpaceX](https://x.com/i/status/2124576203113636183)
+### 2026-11-24 01:30（台北）｜Aer Lingus 歐洲航線改提供免費 Starlink Wi-Fi
+轉發 @cb_doge 兩則：Aer Lingus 客戶長稱讚 Starlink；北美航線反應「極好」後擴大到歐洲航線，29 架短程客機將於 2027 年初連網，西班牙、葡萄牙、摩洛哥等航線在列（他人說法）。
+- [轉推 @cb_doge 01:30](https://x.com/i/status/2124899403857318119)｜[轉推 @cb_doge 01:53](https://x.com/i/status/2124897838656262339)
 
-### 2026-11-23 04:59（台北）｜精準降落「沒用 AI，未來會大量用 SI」
-引用 @erdayastronaut（以超過每秒 7,000 公尺速度返回仍達次公尺級精度降落，他人說法），寫：「這次沒用 AI/SI，但未來我們會大量使用 SI。」
-- [馬斯克這則](https://x.com/elonmusk/status/2124608788158447644)｜[引用 @erdayastronaut](https://x.com/i/status/2124235715223695804)
+另有 1 則類似（[引用 Andrew McCarthy 影片「美麗的畫面」](https://x.com/elonmusk/status/2124944467119747335)｜[轉推 @AJamesMcCarthy 版畫](https://x.com/i/status/2124892596749378029)）。
 
 ## xAI／Grok
 
-### 2026-11-23 04:31（台北）｜轉發：Grok Bot 找出 892 美元集體訴訟賠償
-轉發 @trevin：用 Grok @bot 加上 Amazon 訂單匯出，找到自 2017 年起符合某集體訴訟、可領的 892 美元（他人說法）。
-- [轉推 @trevin](https://x.com/i/status/2124562339181826173)
+### 2026-11-24 03:16（台北）｜轉發 Grok Bot 工作流
+轉發 @minchoi：新工作流為即時研究 → Grok Bot 規劃與編排 → Grok Bot 日常寫程式與除錯 → 其他模型寫測試與前端（他人說法）。
+- [轉推 @minchoi](https://x.com/i/status/2124719179022426450)
 
 ## AI 與資料中心
 
-### 2026-11-23 03:41（台北）｜「預訓練應該就叫訓練」；明年挑戰是資料匱乏
-回覆 OpenAI 人員談公開預訓練進度與以困惑度設安全門檻的貼文（他人說法）：「Pretraining 應該就叫 training。不能有 pre 和 post，卻從來沒有真正的 training。就像換好運動服、之後洗澡，卻沒真的運動 😂 除非我漏了什麼，明年訓練的挑戰會是資料匱乏。」04:48 回覆 @merettm：「想像我們達到 exawatt 時超級智慧會是什麼樣子，現在就像穴居人在玩棍子。」
-- [回覆原貼](https://x.com/elonmusk/status/2124588982117781808)｜[原貼](https://x.com/i/status/2124549218995949967)｜[回覆 @merettm](https://x.com/elonmusk/status/2124605881770033304)
+### 2026-11-23 23:01（台北）｜黃仁勳回任 NVIDIA 執行長，馬斯克表態支持
+轉發 @WhiteHouse 川普聲明（NVIDIA 董事會讓黃仁勳回任執行長是正確決定）、@RapidResponse47 川普「我們必須保護我們的天才」、@nvidianewsroom 官方公告，以及 @cb_doge 川普稱曾與馬斯克談過、馬斯克很尊重黃仁勳（他人說法）。01:53 回覆 @StockSavvyShay：「籌碼高時人人是你朋友，籌碼低時挺你的才是真朋友。只能共富貴的朋友一文不值。」03:07 引用 NVIDIA 總部歡迎黃仁勳回歸的畫面：「我認識的 NVIDIA 人都想要 Jensen 回來，看得出來。」03:44 回覆 @XFreeze 談友誼的剪輯：「Yes」。
+- [轉推 @WhiteHouse](https://x.com/i/status/2124872428723552741)｜[轉推 @RapidResponse47](https://x.com/i/status/2124887036494839905)｜[轉推 @nvidianewsroom](https://x.com/i/status/2124865060397019480)｜[轉推 @cb_doge](https://x.com/i/status/2124906448476094686)｜[馬斯克 01:53](https://x.com/elonmusk/status/2124924349710741798)｜[回覆 @StockSavvyShay](https://x.com/i/status/2124902947335406012)｜[馬斯克 03:07](https://x.com/elonmusk/status/2124942828274925651)｜[引用原貼](https://x.com/i/status/2124940234932596890)｜[馬斯克 03:44](https://x.com/elonmusk/status/2124952155060580633)｜[回覆 @XFreeze](https://x.com/i/status/2124943471555531059)
+
+### 2026-11-24 03:17（台北）｜「很榮幸 Yann 當我的留言哥」
+回覆 @kimmonismus（諷刺 Yann LeCun 對「超級智慧已到、黎曼猜想已證明」的反應）：「很榮幸有 Yann 當我的 reply guy。」03:16 回覆並轉發 @yunta_tsai「我們跟 Elon 的工程會議不會降低難度」：「True 😂」。
+- [馬斯克 03:17](https://x.com/elonmusk/status/2124945551577723147)｜[回覆 @kimmonismus](https://x.com/i/status/2124788292277215500)｜[馬斯克 03:16](https://x.com/elonmusk/status/2124945095451701735)｜[轉推 @yunta_tsai](https://x.com/i/status/2124890893975204334)
+
+## 政治時事
+
+### 2026-11-24 03:11（台北）｜回覆梗圖
+回覆 @UpdatingOnRome「你認不出你的皇帝嗎？」：「🔥❤️」。
+- [馬斯克這則](https://x.com/elonmusk/status/2124943967712149914)｜[回覆 @UpdatingOnRome](https://x.com/i/status/2124913094677889237)
+
+## X 平台與資訊辨別
+
+### 2026-11-24 01:28（台北）｜X Money 盜刷案：違法者「都會被起訴」
+引用貼文：本月美國司法部刑事司在網路詐騙專案下，對涉嫌在 @XMoney 使用盜來第三方支付憑證的人立案調查，X 將全力配合（他人說法）。馬斯克寫：「在這個平台上違法的人，不論身在世界何處，都『將會』被起訴。」
+- [馬斯克這則](https://x.com/elonmusk/status/2124917923391443211)｜[引用原貼](https://x.com/i/status/2124866469762646060)
+
+### 2026-11-24 02:56（台北）｜轉發：X 最適合 AI
+轉發 @Scobleizer：在 X 20 週年，X 最適合 AI，新聞多的日子可讓 GrokBot 幫看他的清單（他人說法）；03:43 轉發 @cb_doge「歡迎來到社群媒體的 PvP」。
+- [轉推 @Scobleizer](https://x.com/i/status/2124934262915055677)｜[轉推 @cb_doge](https://x.com/i/status/2124945497152794908)
 
 ## 其他
 
-### 2026-11-23 04:28（台北）｜迷因回應
-引用 @x_grace_g 一則圖片貼只寫「😂」；04:55 回覆並轉發 @raygyli 的圖片「😂」。
-- [馬斯克這則](https://x.com/elonmusk/status/2124600936609841396)｜[引用 @x_grace_g](https://x.com/i/status/2124409423821205663)｜[回覆 @raygyli](https://x.com/elonmusk/status/2124607751934373932)
+### 2026-11-24 01:30（台北）｜賓大派對往事「True」
+引用房東回憶他大學時住門口第一間、床墊放地上、辦派對收門票的貼文：「True」。另轉發 @willdepue 一則只有連結的貼文。
+- [馬斯克這則](https://x.com/elonmusk/status/2124918561617694750)｜[引用原貼](https://x.com/i/status/2124918121848840384)｜[轉推 @willdepue](https://x.com/i/status/2124872898964050032)

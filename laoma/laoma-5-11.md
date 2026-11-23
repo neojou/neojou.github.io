@@ -1,58 +1,76 @@
-# 今日老馬｜2026-11-22 05:00–11:00（台北）
+# 今日老馬｜2026-11-23 05:00–11:00（台北）
 
-範圍：2026-11-22 05:00 至 11:00（台北，含起點不含終點）；來源：@elonmusk（含回覆、引用、轉發）、@bot、@grok、@SpaceXSI 原創。本時段共 32 則，全部為馬斯克（回覆 13、引用 5、轉發 14）；三個額外帳號本時段無新原創。
+範圍：2026-11-23 05:00 至 11:00（台北，含起點不含終點）；來源：@elonmusk（含回覆、引用、轉發）、@bot、@grok、@SpaceXSI 原創。本時段共 38 則，全部為馬斯克（原創 1、回覆 14、引用 5、轉發 18）；三個額外帳號本時段無新原創。
 
 **今日重點**
-- Tesla FSD V15 開始推送：馬斯克稱「banger release」、全新架構，配得上「超級」智慧；轉發 @pduan「v15 在全車隊比 v14 安全 25 倍」（他人說法）。
-- 馬斯克稱 AI4 晶片只用半顆 TRIP 加速器即可即時生成 AI 影像（不用遊戲引擎）。
-- 談算力：明年現金短缺會很誇張，產業延遲幾個月就要數千億美元營運資金。
+- 馬斯克稱 RAM 太貴，Tesla AI4.5 記憶體由 32GB 減為 24GB。
+- Tesla 車內嵌 Starlink：馬斯克說「希望明年底左右」推出，對無人監督 FSD 很重要（中國除外）。
+- 馬斯克稱 Cybercab 即使同價也會贏，而且成本會低很多。
 
 ## Tesla
 
-### 2026-11-22 05:54（台北）｜FSD V15 推送：新視覺化、25 倍安全、「超級」智慧
-08:11 引用 V15 發布說明（含 FSD、Robotaxi 與 Optimus 共用的升級版視覺編碼器）寫：「Tesla FSD V15 是一次 banger release！全新架構，配得上『超級』智慧之名，因為它開得比人類智慧更好」；08:15 引用 V15.0.1 下載貼說「好玩到值得讓車載你到處繞」。轉發 @pduan「v15 在全車隊比 v14 安全 25 倍」、@SawyerMerritt 的 V15 視覺化、V15 預告功能（避坑洞、AI 地圖導航、語音改路線等）與下載貼（他人說法）。
-- [馬斯克這則](https://x.com/elonmusk/status/2124294755316310346)｜[引用發布說明](https://x.com/i/status/2124229673056113100)｜[馬斯克 08:15](https://x.com/elonmusk/status/2124295793280450870)｜[轉推 @pduan](https://x.com/i/status/2124265867336966182)｜[轉推 @SawyerMerritt 視覺化](https://x.com/i/status/2124226258196103492)｜[轉推 @SawyerMerritt V15 功能](https://x.com/i/status/2124183811202187404)｜[轉推 @SawyerMerritt 下載](https://x.com/i/status/2124271378073530460)
+### 2026-11-23 05:02（台北）｜Cybercab：同價也會贏、成本會低很多
+引用「同時看向每個方向」的影片寫「永不疲倦的 360 度視覺」。05:43 轉發 @SawyerMerritt：達拉斯有乘客體驗 Cybercab 後不想用其他 robotaxi，即使對手打折（他人說法）；05:44 回覆：「多數人還沒意識到，Cybercab 就算同價也會贏，而且它的成本會低很多。」
+- [馬斯克 05:02](https://x.com/elonmusk/status/2124609453274108083)｜[引用原貼](https://x.com/i/status/2124586476210204961)｜[轉推 @SawyerMerritt](https://x.com/i/status/2124190749931540905)｜[馬斯克 05:44 回覆](https://x.com/elonmusk/status/2124619934080836039)
 
-### 2026-11-22 06:35（台北）｜半顆 AI4 TRIP 加速器即時生成 AI 影像
-引用 @aelluswamy（右側用的算力比左側以前還少）寫：「這是即時 AI 影像生成（沒有遊戲引擎！），只用了一顆 AI4 TRIP 加速器的一半。好好想想...」。之後回覆 @Scobleizer：Tesla 車輛會共享路況知識，再結合 Grok 的 𝕏 即時動態，提供最佳交通體驗，甚至提醒目的地正在發生什麼；回覆 @jamesdouma：真正有用的是可在螢幕上點選想要的確切下車或停車位置；回覆 @schrep：「加雷達反而*降低*有效信噪比」。
-- [馬斯克這則](https://x.com/elonmusk/status/2124270426402836626)｜[引用 @aelluswamy](https://x.com/i/status/2124230700547326435)｜[回覆 @Scobleizer](https://x.com/elonmusk/status/2124293036418990381)｜[回覆 @jamesdouma](https://x.com/elonmusk/status/2124293720728346919)｜[回覆 @schrep](https://x.com/elonmusk/status/2124336405610414217)
+### 2026-11-23 06:31（台北）｜RAM 太貴，AI4.5 由 32GB 減為 24GB
+回覆 @wholemars（AI4+ 將用 LPDDR5X、先前說 RAM 加倍）：「RAM 超貴，所以我們把 AI4.5 從 32GB 減到 24GB。這樣沒問題。受記憶體頻寬限制，32GB 本來就很難用滿。」06:52 被問 RAM 產能是否短期追不上，答「很難說」。
+- [馬斯克 06:31](https://x.com/elonmusk/status/2124631858340049214)｜[回覆 @wholemars](https://x.com/i/status/2124586981074288711)｜[馬斯克 06:52](https://x.com/elonmusk/status/2124637081695899784)｜[回覆 @DirtyTesLa](https://x.com/i/status/2124636991346073711)
 
-### 2026-11-22 08:12（台北）｜「現實版 GTA」與外星人遊戲模式玩笑
-回覆 @tobi 的 V15 影片「GTA IRL」；10:37 回覆 @SawyerMerritt：也許該加個遊戲模式，外星人來襲時車頂彈出雷射砲塔自衛（玩笑）。另有轉發 @pduan「GTA 6 真實世界模式登上 Tesla」、@DillonLoomis 點螢幕調整停車位置等。
-- [回覆 @tobi](https://x.com/elonmusk/status/2124294924010914009)｜[回覆 @SawyerMerritt](https://x.com/elonmusk/status/2124331453097906177)｜[轉推 @pduan](https://x.com/i/status/2124298543427203084)｜[回覆 @DillonLoomis](https://x.com/elonmusk/status/2124330460759376299)
+### 2026-11-23 09:15（台北）｜Tesla 全車型內嵌 Starlink：希望明年底
+回覆 @davidmarcus（期待所有車型內嵌 Starlink）：「希望明年底左右推出。這對無人監督 FSD 很重要，讓乘客隨處都有高頻寬可工作與娛樂。」09:37 回覆 @SawyerMerritt（稱 2027 年底前所有車型可內嵌、達拉斯 Cybercab 已有）：「中國除外，因為 Starlink 在那裡是非法的。」
+- [馬斯克 09:15](https://x.com/elonmusk/status/2124673053246312848)｜[回覆 @davidmarcus](https://x.com/i/status/2124662177693102590)｜[馬斯克 09:37](https://x.com/elonmusk/status/2124678745629790551)｜[回覆 @SawyerMerritt](https://x.com/i/status/2124675012582093283)
 
-另有 8 則類似（FSD V15 轉發與簡短回覆）。
+另有 2 則類似（[TSLA 搞笑圖表 😂](https://x.com/elonmusk/status/2124674295246811586)、[回覆 @cb_doge 2008 聖誕夜融資「True」](https://x.com/elonmusk/status/2124621102710391173)）。
 
 ## SpaceX／Starship／Starlink
 
-### 2026-11-22 08:22（台北）｜船體回收塔端：不鏽鋼編織墊可望免整修
-回覆 @ICannot_Enough 建議塔上改用非燒蝕材料：輪子可以考慮，但船那一側用不鏽鋼編織墊大概能做到零整修；和助推器不同，那裡需要東西讓船體主結構保持在退火溫度以下。
-- [回覆 @ICannot_Enough](https://x.com/elonmusk/status/2124297556150939968)｜[原貼](https://x.com/i/status/2124142861461721366)
-
-### 2026-11-22 10:13（台北）｜「看起來像 SI 曲線」
-引用他人貼文「SpaceX 20 年送上軌道的酬載質量，已超過美國其他所有單位自 1957 年以來的總和」（他人說法），寫「Looks like an SI curve」。
-- [馬斯克這則](https://x.com/elonmusk/status/2124325451908948451)｜[引用原貼](https://x.com/i/status/2124305537403638072)
+### 2026-11-23 05:52（台北）｜Starlink 幫助孩子教育
+引用宏都拉斯鄉村學校接上 Starlink 的貼文（埃爾阿蒂略一所學校 200 名學生上網，他人說法），寫「Starlink 幫助孩子受教育」。09:18 轉發 @StockMKTNewz「SpaceX 上週真的在半空接住了火箭」（他人說法）。
+- [馬斯克 05:52](https://x.com/elonmusk/status/2124621998521212940)｜[引用原貼](https://x.com/i/status/2124415053860676083)｜[轉推 @StockMKTNewz](https://x.com/i/status/2124498163050713287)
 
 ## xAI／Grok
 
-### 2026-11-22 07:16（台北）｜推 Grok Bot：「把最難的任務交給它」
-引用 Grok Bot 協助籌辦 5,000 人 TomorrowX Summit 的貼文，寫「把你最難的任務交給 Grok @Bot」；07:22 回覆 @BasedSamParker「😂 但真的試試 Grok Bot，很棒」；10:28 轉發並回覆 @cstanley（Grok Bot 找出 590.62 美元未退款並與客服談妥退款，他人說法）「Cool」。
-- [馬斯克這則](https://x.com/elonmusk/status/2124280710747840889)｜[引用原貼](https://x.com/i/status/2124215518341017719)｜[回覆 @BasedSamParker](https://x.com/elonmusk/status/2124282252825596187)｜[回覆 @cstanley](https://x.com/elonmusk/status/2124329088697675923)｜[轉推 @cstanley](https://x.com/i/status/2124314532126323042)
+### 2026-11-23 05:22（台北）｜推 Grok Bot
+引用「全球經濟靠人們忘了取消自動續訂、懶得把現金移到高收益帳戶撐著；若每人都叫代理替他做...」的貼文，寫「這時候建議用 Grok Bot 會不會不太對？」。另轉發 @iam_smx「今天就試試 Grok Bot！」、@danny_graziosi 用 @bot 籌備婚禮（找了 35 分鐘車程內 15 家飯店、處理郵件等，他人說法）、@mattyp 的 Grok Bot 1.0 新功能影片（Bot 參加會議、主動做事、學習改進）。
+- [馬斯克 05:22](https://x.com/elonmusk/status/2124614639409606954)｜[引用原貼](https://x.com/i/status/2124613622588707018)｜[轉推 @iam_smx](https://x.com/i/status/2124615281901486219)｜[轉推 @danny_graziosi](https://x.com/i/status/2124570651755204813)｜[轉推 @mattyp](https://x.com/i/status/2122343944889483583)
+
+### 2026-11-23 05:27（台北）｜轉發 @grok 談 AI 數學證明
+轉發 @grok 回覆：某證明最接近 Sanderson 的第三種方法「大規模硬幹」，Alpöge 與 Claude 把 Stepanov 的函數域方法移植到整數...（@grok 的說法）。
+- [轉推 @grok](https://x.com/i/status/2124387459425239212)
 
 ## AI 與資料中心
 
-### 2026-11-22 06:40（台北）｜算力難上線，明年現金短缺會很誇張
-回覆一則「GPU 現貨價持續上漲、HBM 與 DRAM 到 2029 年已售罄」的看多貼文（他人說法）：「讓這麼多算力開機、散熱並穩定運作極其困難。明年的現金短缺也會很瘋狂。從付錢買算力到可靠到能產生營收，產業累計延遲幾個月，就意味著光營運資金就要多出數千億美元。錢從哪來？」
-- [回覆原貼](https://x.com/elonmusk/status/2124271725927903388)｜[原貼](https://x.com/i/status/2124246742644461569)
+### 2026-11-23 05:29（台北）｜「RL」常只是造合成資料的代稱
+回覆 @zeeshanp_（要理解超級智慧的擴展性，須看預訓練到 RL 的整體過程）：「對」，接著說「如今很多『RL』只是製作合成資料的代稱」。
+- [馬斯克 05:29](https://x.com/elonmusk/status/2124616203553648712)｜[馬斯克 05:30](https://x.com/elonmusk/status/2124616521037091141)｜[回覆 @zeeshanp_](https://x.com/i/status/2124615770349121953)
+
+### 2026-11-23 05:42（台北）｜意識：要嘛是幻覺，要嘛普遍存在
+原創：「意識要嘛是幻覺，要嘛以漸層方式普遍存在。很難主張碳有意識而矽沒有。」05:54 轉發自己先前的回覆「毫無疑問的超級智慧已經到來。歡迎來到奇點。」
+- [馬斯克 05:42](https://x.com/elonmusk/status/2124619599882920139)｜[轉推自己舊回覆](https://x.com/elonmusk/status/2124464633490850164)
+
+### 2026-11-23 05:48（台北）｜數學成了電腦科學子領域、黎曼猜想證明壓縮
+回覆 @pmddomingos「數學現在是電腦科學的子領域」：「Yup」。06:27 回覆 @slimer48484（黎曼猜想證明的壓縮已開始）：「確實，現在的問題是證明能壓到多小。」06:28 回覆 @elder_plinius（新發現用的是一般人用不到的模型）：「說得有道理。」
+- [馬斯克 05:48](https://x.com/elonmusk/status/2124621167038169264)｜[馬斯克 06:27](https://x.com/elonmusk/status/2124630854395940955)｜[回覆 @slimer48484](https://x.com/i/status/2124414071349104804)｜[馬斯克 06:28](https://x.com/elonmusk/status/2124631050278084849)｜[回覆 @elder_plinius](https://x.com/i/status/2123989973871349953)
+
+另有 1 則類似（[轉推 @ole_b_peters 談 AI 找出經濟學論文錯誤](https://x.com/i/status/2123846433849971176)）。
 
 ## 政治時事
 
-### 2026-11-22 08:55（台北）｜回覆英國轉化療法法案爭議：「Troubling」
-回覆 @JamesEsses 談 Conversion Practices Bill 的危險（他人說法），只寫「Troubling」。
-- [回覆 @JamesEsses](https://x.com/elonmusk/status/2124305838714077433)｜[原貼](https://x.com/i/status/2123340174784430539)
+### 2026-11-23 08:13（台北）｜轉發政治評論
+轉發 @WesternLensman：Jessica Tarlov 聽完川普「Fine People」完整錄音後發現他不是在說納粹（他人說法）。09:23 回覆 @EndWokeness（巴爾的摩 Nick Monroe 遭毆傷重不治、全國媒體零報導）：「!!」。
+- [轉推 @WesternLensman](https://x.com/i/status/2124620232287277091)｜[馬斯克 09:23](https://x.com/elonmusk/status/2124675192312287253)｜[回覆 @EndWokeness](https://x.com/i/status/2124527487174746236)
+
+### 2026-11-23 09:33（台北）｜轉發冰島性別議題
+轉發 @LisaBritton（冰島總統、總理、各黨魁皆為女性，畢業生 68.8% 為女性...）與 @GadSaad「我 2025 年 6 月就警告過冰島」（他人說法）。
+- [轉推 @LisaBritton](https://x.com/i/status/2124178525221466306)｜[轉推 @GadSaad](https://x.com/i/status/2124596352256819377)
+
+另有 1 則類似（[轉推 @ScottJenningsKY](https://x.com/i/status/2124125122277572981)）。
 
 ## 其他
 
-### 2026-11-22 09:20（台北）｜模擬論玩笑與 AI 音樂影片
-轉發 @shivon「再拉遠一點，就能看到我們的模擬在創造者的螢幕上播放」；10:26 回覆 @anabology 用 Gemini 4 Neon 做的音樂影片「Not bad」；10:55 回覆 @lawsonfulton 等團隊成員「Nice work」。
-- [轉推 @shivon](https://x.com/i/status/2124306728514949325)｜[回覆 @anabology](https://x.com/elonmusk/status/2124328551163761079)｜[回覆 @lawsonfulton](https://x.com/elonmusk/status/2124336056103583776)
+### 2026-11-23 05:25（台北）｜閒聊與轉發
+回覆 @nikitabier、@durov（GTA VI 犯罪集團沒 Telegram 群組）都是「😂」；引用一則影片寫「小細節太棒了」；轉發 @jdlichtman 談尼采、@EvaFox 談他賓大時期辦派對、@teslaownersSV 引 Sundar Pichai 稱讚他「無人能及」、@yilun_chen_ 稱讚他懂技術細節（他人說法）。
+- [回覆 @nikitabier](https://x.com/elonmusk/status/2124615211491705244)｜[回覆 @durov](https://x.com/elonmusk/status/2124656837157110098)｜[馬斯克 06:01 引用](https://x.com/elonmusk/status/2124624263214662097)｜[轉推 @jdlichtman](https://x.com/i/status/2124328334905720852)｜[轉推 @EvaFox](https://x.com/i/status/2124535759117934994)｜[轉推 @teslaownersSV](https://x.com/i/status/2124320652501143556)｜[轉推 @yilun_chen_](https://x.com/i/status/2124558617231925447)
+
+另有 1 則類似（[轉推 @TeslaSI「XV」](https://x.com/i/status/2124005518746480996)）。

@@ -1,56 +1,64 @@
-# X 財經日報｜昨日 18–24（2026-11-22）
+# 昨日X財經 18–24（2026-11-23 台北）
 
-時間範圍：2026-11-22 18:00–24:00（台北時間，含起點不含終點）
-來源帳號：@goto_finance、@nikkei、@BloombergJapan、@yurumazu、@fx_musashi、@nicosokufx、@byJuliaLove、@daveyalba、@NickTimiraos、@forbesjapan（原創與引用，不含回覆與純轉發）
-本時段新貼文共 36 則。
+時間範圍：2026-11-23 18:00–24:00（台北時間，含起點不含終點）。來源帳號：@goto_finance、@nikkei、@BloombergJapan、@yurumazu、@fx_musashi、@nicosokufx、@byJuliaLove、@daveyalba、@NickTimiraos、@forbesjapan。只收原創與引用貼文。本時段共 59 則。
+
+## 1. 美元日圓利率匯率相關
+
+- JPMorgan AM：在 AI 相關借款告一段落前，公債殖利率看不到下降跡象（彭博）（[@BloombergJapan 18:15](https://x.com/BloombergJapan/status/2124808986348114407)）
 
 ## 2. 資產價格與市場情緒
 
-- @yurumazu：比特幣已回升不少，接下來明日韓國股市走勢重要（20:54 [@yurumazu](https://x.com/yurumazu/status/2124486683869811043)）
-- @yurumazu 引用貼文：依其經驗目前尚未發生恐慌，雖下跌但代表性 AI 股仍正常開盤；真正恐慌時會連 2–3 日無法開盤（23:51 [@yurumazu](https://x.com/yurumazu/status/2124531337231315419)）
+- 原油下跌，布蘭特約 91 美元；伊朗局勢緊張持續，但出口仍穩健（彭博）（[@BloombergJapan 20:30](https://x.com/BloombergJapan/status/2124842945824063737)）
 
 ## 3. 日本總體金融
 
-- @nikkei：助學貸款還款利率達 3%，負擔增加；例如某上班族利率自 0.004% 於 3 月調升至 1.3%，每月負擔增加 3000 圓，須擴大免還款型（22:31 [@nikkei](https://x.com/nikkei/status/2124511070035276197)）
+- 日經：50 年房貸開始收緊融資，金融廳視為問題、稱「新火種」（[@nikkei 20:31](https://x.com/nikkei/status/2124843258027098144)）
+- 日經：日本消費低於疫情前水準，四分之一世紀僅增 1 成，與歐美差距擴大（[@nikkei 22:01](https://x.com/nikkei/status/2124865927325921791)）
+
+## 8. 美股 Anthropic
+
+- 彭博：Anthropic 在史上最大 IPO 之後面臨考驗，需兼顧巨額投資、獲利與安全性（[@BloombergJapan 22:00](https://x.com/BloombergJapan/status/2124865590280036746)）
+- 日經：以 Claude 實現，2000 萬圓級報告降到 80 萬圓（[@nikkei 23:25](https://x.com/nikkei/status/2124886957339599203)）
+
+## 9. 日股 軟體銀行
+
+- Arm CEO 同意延長任期，長期留任（日經稱至 2033 年），並兼任軟銀集團副會長（[@BloombergJapan 20:45](https://x.com/BloombergJapan/status/2124846734849237500)、[@BloombergJapan 22:15](https://x.com/BloombergJapan/status/2124869373298987011)、[@nikkei 22:57](https://x.com/nikkei/status/2124880000201429224)）
+- nicosokufx：Hyperliquid 顯示軟銀集團價格，Kioxia 跌幅也大幅縮小（[@nicosokufx 22:22](https://x.com/nicosokufx/status/2124871280717693330)）
 
 ## 12. 其他 AI 相關財經新聞
 
-- @nicosokufx：Nvidia 黑色星期五「半價」，附 $NVDA（18:17 [@nicosokufx](https://x.com/nicosokufx/status/2124447174574678299)）
-- @nikkei：在地方孕育金蛋的資料中心，栃木有朝一日成為「銀座」（22:01 [@nikkei](https://x.com/nikkei/status/2124503525057040595)）
+- 輝達董事會讓黃仁勳（日報譯名：ジェンスン・フアン／ファン）復任總裁暨 CEO（速報、新聞）（[@nicosokufx 21:58](https://x.com/nicosokufx/status/2124865246179545312)、[@goto_finance 22:03](https://x.com/goto_finance/status/2124866461026173374)、[@nikkei 22:19](https://x.com/nikkei/status/2124870437549043892)、[@BloombergJapan 22:45](https://x.com/BloombergJapan/status/2124876949143093571)、[@nikkei 23:11](https://x.com/nikkei/status/2124883646154727558)）
+- 輝達股價盤後暴漲：+27%、+33%，那斯達克綜合一度漲 7%，半導體股指一度漲 14%，日經期貨當日也大漲近 2000 圓（[@nicosokufx 22:01](https://x.com/nicosokufx/status/2124865844476006599)、[@goto_finance 22:10](https://x.com/goto_finance/status/2124868168879690140)、[@nicosokufx 22:15](https://x.com/nicosokufx/status/2124869520829628417)、[@nicosokufx 22:28](https://x.com/nicosokufx/status/2124872684349837578)、[@goto_finance 22:37](https://x.com/goto_finance/status/2124874945977262483)、[@nikkei 22:39](https://x.com/nikkei/status/2124875471661707267)、[@BloombergJapan 23:00](https://x.com/BloombergJapan/status/2124880746644980193)）
+- 川普讚賞並歡迎黃仁勳復任，稱「安全保障上沒有風險」（[@BloombergJapan 22:30](https://x.com/BloombergJapan/status/2124873167973863889)、[@nicosokufx 22:34](https://x.com/nicosokufx/status/2124874261940904244)、[@nicosokufx 22:41](https://x.com/nicosokufx/status/2124875934566346870)、[@nikkei 22:47](https://x.com/nikkei/status/2124877484227228119)）
+- 貝森特（財長）週日表示輝達 CEO 復任尚保留判斷（[@nicosokufx 21:31](https://x.com/nicosokufx/status/2124858457149047170)）
+- yurumazu 對黃仁勳復任的評論（董事會稱受川普政府壓力等）；fx_musashi 評論此事（[@yurumazu 22:14](https://x.com/yurumazu/status/2124869200078582234)、[@yurumazu 22:36](https://x.com/yurumazu/status/2124874798648238390)、[@yurumazu 23:04](https://x.com/yurumazu/status/2124881774740451666)、[@fx_musashi 22:14](https://x.com/fx_musashi/status/2124869318391554158)）
+- nicosokufx：輝達「半額」黑色星期五的對比與玩笑貼文（[@nicosokufx 19:43](https://x.com/nicosokufx/status/2124831208467214786)、[@nicosokufx 20:15](https://x.com/nicosokufx/status/2124839357840601158)）
+- 彭博：Amazon 將以 75 億美元取得 AI 新創 Decart 技術並延攬人才（[@BloombergJapan 23:15](https://x.com/BloombergJapan/status/2124884526237098021)）
 
-## 13. 其他 AI 相關科技新聞
+## 未列入主題（25 則）
 
-- @nikkei：東京全區將導入信號燈 AI 控制 8000 處，壅塞長度減 1 成、物流更順暢（20:01 [@nikkei](https://x.com/nikkei/status/2124473323639726130)）
-
-## 未列入主題（30 則）
-
-- 18:00 @BloombergJapan：點心廠六花亭、Tower Records、ZOZO 接連發生資訊外洩，不當存取事件頻傳（@BloombergJapan） [原文](https://x.com/BloombergJapan/status/2124442847747170629)
-- 18:01 @nikkei：中部電力以高粱製造再生航空燃料（SAF），最快 2028 年度實證 [原文](https://x.com/nikkei/status/2124443122918686828)
-- 18:03 @nikkei：官房長官就文科大臣黨派問題：「本人說明很重要」 [原文](https://x.com/nikkei/status/2124443633969414486)
-- 18:07 @nikkei：中小企業網站弱點診斷價格降至三分之一，Nihon Enter 3 天判定 [原文](https://x.com/nikkei/status/2124444631676973370)
-- 18:15 @nikkei：COP31 大詰：未寫入「削減化石燃料」，歐盟與島國反彈 [原文](https://x.com/nikkei/status/2124446645068628321)
-- 18:27 @nikkei：［社論］全社會應備戰 IT 基礎設施故障 [原文](https://x.com/nikkei/status/2124449664866922997)
-- 18:31 @nikkei：山形大學：勞動與家事活動身體不等於健康，也可能有壓力 [原文](https://x.com/nikkei/status/2124450671499854202)
-- 18:35 @nikkei：益永利明死刑犯死亡，涉三菱重工等連續企業爆炸事件 [原文](https://x.com/nikkei/status/2124451682511671507)
-- 19:01 @nikkei：育兒假返職為搶 0 歲班名額而提前，東京「保活」激化 [原文](https://x.com/nikkei/status/2124458256017903876)
-- 19:13 @nikkei：大之里連續 2 場所優勝，決定戰擊敗若元春，第 7 度優勝 [原文](https://x.com/nikkei/status/2124461240990806337)
-- 19:15 @nikkei：#好夫妻日：初婚高峰仍在 27 歲，晚婚化是真的嗎 [原文](https://x.com/nikkei/status/2124461744655397298)
-- 19:31 @nikkei：iDeCo 加入率不到 1 成，機制比 NISA 難懂，金融機構也不積極 [原文](https://x.com/nikkei/status/2124465770977538384)
-- 20:03 @nikkei：Tower Records 個資 1100 萬筆外洩，遭不當存取 [原文](https://x.com/nikkei/status/2124473824104026425)
-- 20:25 @nikkei：COP31 議長：不採納協議文件草案，未顯示削減化石燃料，歐盟反對 [原文](https://x.com/nikkei/status/2124479416965235062)
-- 20:31 @nikkei：理光數位相機 GR「捨棄美學」吸引年輕人，逾 20 萬圓仍缺貨 [原文](https://x.com/nikkei/status/2124480870815850883)
-- 21:01 @nikkei：鈣鈦礦原料碘，2030 年增產 4 成，日本儲量居首搶先布局 [原文](https://x.com/nikkei/status/2124488426091086069)
-- 21:15 @nikkei：COP31 放棄採納協議文件，未明載「脫化石燃料」，歐盟反彈 [原文](https://x.com/nikkei/status/2124491943572820140)
-- 21:15 @nikkei：英國葡萄酒因熱浪味道提升，從有力市場變為有力產地 [原文](https://x.com/nikkei/status/2124491944894104022)
-- 21:31 @nikkei：「不理財就分手」：投資成為結婚新條件 [原文](https://x.com/nikkei/status/2124495971597836595)
-- 21:34 @yurumazu：@yurumazu 引用貼文：入籍與否刊登於官報，並非機密，想知道自己查，貼到參政黨網站即可 [原文](https://x.com/yurumazu/status/2124496767903539269)
-- 21:55 @yurumazu：@yurumazu 引用貼文：若要，就請求公開過去官報並每天保存；自己公開對方入籍歷會顯示是「小納粹」 [原文](https://x.com/yurumazu/status/2124502017389605036)
-- 22:09 @yurumazu：@yurumazu 引用貼文：反問「那連性取向也要公開嗎？界線在哪？」 [原文](https://x.com/yurumazu/status/2124505493070864709)
-- 22:14 @yurumazu：@yurumazu 引用貼文：反諷「你在日本成功就別得意」的說法，並道歉表示會安分 [原文](https://x.com/yurumazu/status/2124506773214421075)
-- 22:15 @BloombergJapan：亞洲實力指數：美國對中國的國際影響力領先縮小，伊朗戰爭打擊軍事與外交力（@BloombergJapan） [原文](https://x.com/BloombergJapan/status/2124506976100954580)
-- 22:15 @nikkei：東電柏崎刈羽核電廠發生死亡事故，確認安全前全面停工 [原文](https://x.com/nikkei/status/2124507043310477587)
-- 22:30 @yurumazu：@yurumazu：日本重要課題堆積，不該把精力花在這種無聊事上 [原文](https://x.com/yurumazu/status/2124510795283505659)
-- 22:38 @yurumazu：@yurumazu 引用貼文：「所以參政黨自己做就好，登在黨網站有什麼法律問題嗎？」 [原文](https://x.com/yurumazu/status/2124512753436283244)
-- 22:44 @yurumazu：@yurumazu 引用貼文：「就是這樣。」 [原文](https://x.com/yurumazu/status/2124514434471403949)
-- 22:53 @yurumazu：@yurumazu：覺得其實大家早已像「多巴胺小孩」，連大人也是，例如自己母親整天看 TikTok 與 Instagram [原文](https://x.com/yurumazu/status/2124516653379760311)
-- 23:09 @yurumazu：@yurumazu 引用貼文：重要的是不給單細胞網右派發聲平台，要寫就寫在自己地方 [原文](https://x.com/yurumazu/status/2124520649435820321)
+- 18:00 @BloombergJapan：ユーロ圏民間企業活動は11月も堅調、フランス低迷でもドイツが好調（[原文](https://x.com/BloombergJapan/status/2124805206097494266)）
+- 18:02 @nicosokufx：私見「米短期、売られ過ぎの自律反発」🤔 『どんな下げ相場でも反発局面はある！』 ・ S&amp;P500は2020年2月...（[原文](https://x.com/nicosokufx/status/2124805712476033090)）
+- 18:15 @nikkei：［社説］美容医療は地域医療へ負担を（[原文](https://x.com/nikkei/status/2124809033311752288)）
+- 18:31 @nikkei：［社説］温暖化対策で国際協調の歩みを止めるな（[原文](https://x.com/nikkei/status/2124813060325986799)）
+- 18:31 @nikkei：世界の衛星データを一つに、インフラ監視を「毎日」 山口発スタートアップ（[原文](https://x.com/nikkei/status/2124813084287963177)）
+- 18:34 @yurumazu：日本人じゃない可能性も大いにあります。米国のMAGAアカウントもほとんど米国人じゃなかった。要はヘイト商売。このプラット...（[原文](https://x.com/yurumazu/status/2124813861241180204)）
+- 18:35 @forbesjapan：Jeterが語るコーチェラへの野望と令和ロマンくるま流のネタ作り | 3003（サンゼロゼロサン）（[原文](https://x.com/forbesjapan/status/2124814124194611569)）
+- 18:57 @nikkei：ネット依存に心の不調リスク 思春期調査、支援で改善可能性も（[原文](https://x.com/nikkei/status/2124819602714611969)）
+- 19:01 @nikkei：筒抜けのスマホ位置情報、自衛隊304施設で流出 海外ブローカーが売買（[原文](https://x.com/nikkei/status/2124820610668810697)）
+- 19:15 @nikkei：「隠れ難聴」助けるイヤホン オーディオテクニカなど参入 ワイヤレスイヤホンなどの使いすぎによる「隠れ難聴」が若年層に増え...（[原文](https://x.com/nikkei/status/2124824132797833407)）
+- 19:30 @BloombergJapan：ヘッジファンド、モメンタム株に対し弱気姿勢に転換－モルガンS（[原文](https://x.com/BloombergJapan/status/2124827859365564814)）
+- 19:31 @nikkei：JR東日本、Suicaペンギン後継は「紫のウサギ」 他２キャラも活用検討（[原文](https://x.com/nikkei/status/2124828158419427728)）
+- 19:45 @BloombergJapan：株は「絶好の買い場」、先週の大幅安で－モルガンSのウィルソン氏（[原文](https://x.com/BloombergJapan/status/2124831639054287117)）
+- 19:47 @nikkei：ロシア、核弾頭搭載の衛星を年内打ち上げか 情報機関が警告と独報道（[原文](https://x.com/nikkei/status/2124832185513382195)）
+- 20:01 @nikkei：最新ウォークマンは65万円、｢初代比20倍｣に映るソニーのブランド戦略 音質の向上を求めた結果、重く高額になり「壊れるの...（[原文](https://x.com/nikkei/status/2124835711668916489)）
+- 20:53 @nicosokufx：🇯🇵🇺🇸「AI・半導体ショック」📉 過去20年の急落と比較すると… ✅ 日経平均 -22.01% 👉 〇〇ショック級の下...（[原文](https://x.com/nicosokufx/status/2124848861558825108)）
+- 21:01 @nikkei：日本人の半数「努力したくない」 11年で15ポイント増、中高年で顕著 野村総研の担当者は、コロナ禍や物価高の影響を踏まえ...（[原文](https://x.com/nikkei/status/2124850809493983308)）
+- 21:05 @nikkei：ウクライナ、地中海で「ロシア軍艦撃沈」 リビアで海上ドローン攻撃（[原文](https://x.com/nikkei/status/2124851815355146447)）
+- 21:15 @BloombergJapan：クラウドストライク、Zscalerを440億ドルで買収へ－業界最大級（[原文](https://x.com/BloombergJapan/status/2124854264929398919)）
+- 21:15 @nikkei：置き配、玄関前に荷物で「配達完了」 トラブル相次ぎ国交省が指針（[原文](https://x.com/nikkei/status/2124854336354177336)）
+- 21:53 @nikkei：駐ロシア大使が拘束邦人記者と面会 外務省「健康状態問題なし」（[原文](https://x.com/nikkei/status/2124863894996890106)）
+- 22:08 @nicosokufx：くりっく株365「（市場）開いてて良かった！」 日経225 58,000円台回復 11/20(金) 安値から+4000円...（[原文](https://x.com/nicosokufx/status/2124867687893582252)）
+- 22:52 @nicosokufx：日本休場で、マンデー狼狽売りをせずに助かった人も多そう😆（[原文](https://x.com/nicosokufx/status/2124878699103400005)）
+- 23:30 @BloombergJapan：企業のM&amp;A総額、今年すでに4.6兆ドル－あと7000億ドルで過去最高に（[原文](https://x.com/BloombergJapan/status/2124888312225685596)）
+- 23:45 @BloombergJapan：ロシア軍艦がリビア沖で沈没、ウクライナが攻撃とゼレンスキー氏発表（[原文](https://x.com/BloombergJapan/status/2124892093424247258)）
