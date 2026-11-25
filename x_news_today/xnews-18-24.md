@@ -1,64 +1,86 @@
-# 昨日X財經 18–24（2026-11-23 台北）
+# X 財經日報｜昨日 18:00–24:00（2026-11-24）
 
-時間範圍：2026-11-23 18:00–24:00（台北時間，含起點不含終點）。來源帳號：@goto_finance、@nikkei、@BloombergJapan、@yurumazu、@fx_musashi、@nicosokufx、@byJuliaLove、@daveyalba、@NickTimiraos、@forbesjapan。只收原創與引用貼文。本時段共 59 則。
+時間範圍：2026-11-24 18:00–24:00（台北時間，半開區間）
+來源帳號：@goto_finance、@nikkei、@BloombergJapan、@yurumazu、@fx_musashi、@nicosokufx、@byJuliaLove、@daveyalba、@NickTimiraos、@forbesjapan（只收原創與引用，不含回覆與純轉發）
+本時段共 63 則原創／引用貼文。
 
 ## 1. 美元日圓利率匯率相關
 
-- JPMorgan AM：在 AI 相關借款告一段落前，公債殖利率看不到下降跡象（彭博）（[@BloombergJapan 18:15](https://x.com/BloombergJapan/status/2124808986348114407)）
+- 18:10　にこそく：日圓賣出、股市下跌令人困惑；並引用稱美元日圓在股弱時逢反彈賣出是否正確。（[@nicosokufx](https://x.com/nicosokufx/status/2125170173602939376)、[@nicosokufx](https://x.com/nicosokufx/status/2125187046071488770)）
+- 18:19　日經：AI 資金補強「美元一強」，繼升息觀測後成為新支撐。（[@nikkei](https://x.com/nikkei/status/2125172428221415833)）
+- 19:48　彭博日本：ECB 的 Simkus 稱及早升息為明智，需因應廣泛通膨。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125194746939208151)）
+- 20:33　彭博日本：PIMCO CIO 稱 AI 熱潮使美國經濟更不穩，美債等高品質債券具投資價值。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125206084864352410)）
+- 22:55　Nick Timiraos：CNBC 討論在波動環境下 Fed 反應函數指引的效用（原文後段含連結）。（[@NickTimiraos](https://x.com/NickTimiraos/status/2125242013914468442)）
 
 ## 2. 資產價格與市場情緒
 
-- 原油下跌，布蘭特約 91 美元；伊朗局勢緊張持續，但出口仍穩健（彭博）（[@BloombergJapan 20:30](https://x.com/BloombergJapan/status/2124842945824063737)）
+- 18:25　にこそく：美國 AI・半導體股大幅反彈後盤後轉為賣壓居優。（[@nicosokufx](https://x.com/nicosokufx/status/2125173908546691157)）
+- 19:51　にこそく：日經期貨「波動很可怕」。（[@nicosokufx](https://x.com/nicosokufx/status/2125195640758288863)）
+- 22:32　にこそく：S&P 500「全體 75% 以下跌開盤」。（[@nicosokufx](https://x.com/nicosokufx/status/2125236145743397268)）
 
 ## 3. 日本總體金融
 
-- 日經：50 年房貸開始收緊融資，金融廳視為問題、稱「新火種」（[@nikkei 20:31](https://x.com/nikkei/status/2124843258027098144)）
-- 日經：日本消費低於疫情前水準，四分之一世紀僅增 1 成，與歐美差距擴大（[@nikkei 22:01](https://x.com/nikkei/status/2124865927325921791)）
+- 18:17　彭博日本：營造商矢作建設準備首次發行普通公司債，BBB 評等、附財務限制條款。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125172067335111111)）
+- 19:25　日經：樂天集團暫緩發行最多 1500 億圓永續次順位債。（[@nikkei](https://x.com/nikkei/status/2125189036746633686)）
+- 21:21　日經：武藏野銀行恐有 115 億圓債權無法回收，業績預估不變。（[@nikkei](https://x.com/nikkei/status/2125218229303886327)）
+- 23:30　彭博日本：美國消費者信心升至約兩年來高點，對景氣與勞動市場樂觀。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125250775181852838)）
+
+## 4. 日銀與日本政策
+
+- 18:48　彭博日本：日銀董事薪酬上調 3.3%，總裁年薪 3906 萬圓。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125179626892800032)）
+- 20:18　彭博日本：首相高市指示編列本年度第二次補充預算，無大型經濟對策。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125202304571760886)）
+
+## 5. 資金流與部位
+
+- 18:02　彭博日本、日經：法國賽諾菲以 6.5 兆圓收購美國 Insmed，擴充免疫與罕病（日經稱呼吸器藥強化）。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125168285226357044)、[@nikkei](https://x.com/nikkei/status/2125214203053019211)）
 
 ## 8. 美股 Anthropic
 
-- 彭博：Anthropic 在史上最大 IPO 之後面臨考驗，需兼顧巨額投資、獲利與安全性（[@BloombergJapan 22:00](https://x.com/BloombergJapan/status/2124865590280036746)）
-- 日經：以 Claude 實現，2000 萬圓級報告降到 80 萬圓（[@nikkei 23:25](https://x.com/nikkei/status/2124886957339599203)）
-
-## 9. 日股 軟體銀行
-
-- Arm CEO 同意延長任期，長期留任（日經稱至 2033 年），並兼任軟銀集團副會長（[@BloombergJapan 20:45](https://x.com/BloombergJapan/status/2124846734849237500)、[@BloombergJapan 22:15](https://x.com/BloombergJapan/status/2124869373298987011)、[@nikkei 22:57](https://x.com/nikkei/status/2124880000201429224)）
-- nicosokufx：Hyperliquid 顯示軟銀集團價格，Kioxia 跌幅也大幅縮小（[@nicosokufx 22:22](https://x.com/nicosokufx/status/2124871280717693330)）
+- 18:31　日經：外部數學家對 Anthropic 證明黎曼猜想「確信正確」。（[@nikkei](https://x.com/nikkei/status/2125175448216760462)）
+- 18:49　にこそく、彭博日本、Emin Yurumazu、日經：Anthropic（$ANT）上市首日盤後與開盤前跌破 IPO 價 83 美元，にこそく報 80.4 美元（-7%），Nasdaq 100 期貨一度跌 2%，日經稱對獲利化疑慮強；Yurumazu 稱市值恐跌破一兆美元。（[@nicosokufx](https://x.com/nicosokufx/status/2125179932489965860)、[@BloombergJapan](https://x.com/BloombergJapan/status/2125217424194629891)、[@BloombergJapan](https://x.com/BloombergJapan/status/2125228717957845164)、[@nicosokufx](https://x.com/nicosokufx/status/2125237275831443873)、[@yurumazu](https://x.com/yurumazu/status/2125239686310576536)、[@nikkei](https://x.com/nikkei/status/2125243398936260784)）
 
 ## 12. 其他 AI 相關財經新聞
 
-- 輝達董事會讓黃仁勳（日報譯名：ジェンスン・フアン／ファン）復任總裁暨 CEO（速報、新聞）（[@nicosokufx 21:58](https://x.com/nicosokufx/status/2124865246179545312)、[@goto_finance 22:03](https://x.com/goto_finance/status/2124866461026173374)、[@nikkei 22:19](https://x.com/nikkei/status/2124870437549043892)、[@BloombergJapan 22:45](https://x.com/BloombergJapan/status/2124876949143093571)、[@nikkei 23:11](https://x.com/nikkei/status/2124883646154727558)）
-- 輝達股價盤後暴漲：+27%、+33%，那斯達克綜合一度漲 7%，半導體股指一度漲 14%，日經期貨當日也大漲近 2000 圓（[@nicosokufx 22:01](https://x.com/nicosokufx/status/2124865844476006599)、[@goto_finance 22:10](https://x.com/goto_finance/status/2124868168879690140)、[@nicosokufx 22:15](https://x.com/nicosokufx/status/2124869520829628417)、[@nicosokufx 22:28](https://x.com/nicosokufx/status/2124872684349837578)、[@goto_finance 22:37](https://x.com/goto_finance/status/2124874945977262483)、[@nikkei 22:39](https://x.com/nikkei/status/2124875471661707267)、[@BloombergJapan 23:00](https://x.com/BloombergJapan/status/2124880746644980193)）
-- 川普讚賞並歡迎黃仁勳復任，稱「安全保障上沒有風險」（[@BloombergJapan 22:30](https://x.com/BloombergJapan/status/2124873167973863889)、[@nicosokufx 22:34](https://x.com/nicosokufx/status/2124874261940904244)、[@nicosokufx 22:41](https://x.com/nicosokufx/status/2124875934566346870)、[@nikkei 22:47](https://x.com/nikkei/status/2124877484227228119)）
-- 貝森特（財長）週日表示輝達 CEO 復任尚保留判斷（[@nicosokufx 21:31](https://x.com/nicosokufx/status/2124858457149047170)）
-- yurumazu 對黃仁勳復任的評論（董事會稱受川普政府壓力等）；fx_musashi 評論此事（[@yurumazu 22:14](https://x.com/yurumazu/status/2124869200078582234)、[@yurumazu 22:36](https://x.com/yurumazu/status/2124874798648238390)、[@yurumazu 23:04](https://x.com/yurumazu/status/2124881774740451666)、[@fx_musashi 22:14](https://x.com/fx_musashi/status/2124869318391554158)）
-- nicosokufx：輝達「半額」黑色星期五的對比與玩笑貼文（[@nicosokufx 19:43](https://x.com/nicosokufx/status/2124831208467214786)、[@nicosokufx 20:15](https://x.com/nicosokufx/status/2124839357840601158)）
-- 彭博：Amazon 將以 75 億美元取得 AI 新創 Decart 技術並延攬人才（[@BloombergJapan 23:15](https://x.com/BloombergJapan/status/2124884526237098021)）
+- 18:17　日經：［社論］黃仁勳復帰後輝達問題仍未盡。（[@nikkei](https://x.com/nikkei/status/2125171924024054198)）
+- 18:30　Emin Yurumazu（引用）：稱黃仁勳復帰後如折翼天使，因川普介入政治色彩變濃，仍無法對半導體轉強氣。（[@yurumazu](https://x.com/yurumazu/status/2125175259238482199)）
+- 19:18　彭博日本：黃仁勳復帰後中國警戒未解，對美國放寬半導體管制期待薄，貿易休戰期限逼近。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125187186832167374)）
+- 19:23　日經、彭博日本：黃仁勳電撃復帰，全球 AI 股獲買回，日經平均一度漲 2800 圓；但公司治理與市場疑慮未解。（[@nikkei](https://x.com/nikkei/status/2125188533694427603)、[@BloombergJapan](https://x.com/BloombergJapan/status/2125221203396722930)、[@BloombergJapan](https://x.com/BloombergJapan/status/2125224939003195636)）
+- 20:31　日經：黃仁勳復帰影響台灣地方選舉，股價回升使執政黨疑慮減輕。（[@nikkei](https://x.com/nikkei/status/2125205647008358855)）
+- 23:00　Forbes JAPAN：美國資料中心營建商 Clayco 創辦人斷言「不存在 AI 泡沫」。（[@forbesjapan](https://x.com/forbesjapan/status/2125243202441781479)）
+- 23:00　彭博日本：參議員 McCormick 對川普介入輝達表達強烈關切。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125243211731832972)）
+- 23:15　彭博日本：【專欄】黃仁勳不是不死之身也非預言家，輝達治理風險增強。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125246991575691535)）
 
-## 未列入主題（25 則）
+## 13. 其他 AI 相關科技新聞
 
-- 18:00 @BloombergJapan：ユーロ圏民間企業活動は11月も堅調、フランス低迷でもドイツが好調（[原文](https://x.com/BloombergJapan/status/2124805206097494266)）
-- 18:02 @nicosokufx：私見「米短期、売られ過ぎの自律反発」🤔 『どんな下げ相場でも反発局面はある！』 ・ S&amp;P500は2020年2月...（[原文](https://x.com/nicosokufx/status/2124805712476033090)）
-- 18:15 @nikkei：［社説］美容医療は地域医療へ負担を（[原文](https://x.com/nikkei/status/2124809033311752288)）
-- 18:31 @nikkei：［社説］温暖化対策で国際協調の歩みを止めるな（[原文](https://x.com/nikkei/status/2124813060325986799)）
-- 18:31 @nikkei：世界の衛星データを一つに、インフラ監視を「毎日」 山口発スタートアップ（[原文](https://x.com/nikkei/status/2124813084287963177)）
-- 18:34 @yurumazu：日本人じゃない可能性も大いにあります。米国のMAGAアカウントもほとんど米国人じゃなかった。要はヘイト商売。このプラット...（[原文](https://x.com/yurumazu/status/2124813861241180204)）
-- 18:35 @forbesjapan：Jeterが語るコーチェラへの野望と令和ロマンくるま流のネタ作り | 3003（サンゼロゼロサン）（[原文](https://x.com/forbesjapan/status/2124814124194611569)）
-- 18:57 @nikkei：ネット依存に心の不調リスク 思春期調査、支援で改善可能性も（[原文](https://x.com/nikkei/status/2124819602714611969)）
-- 19:01 @nikkei：筒抜けのスマホ位置情報、自衛隊304施設で流出 海外ブローカーが売買（[原文](https://x.com/nikkei/status/2124820610668810697)）
-- 19:15 @nikkei：「隠れ難聴」助けるイヤホン オーディオテクニカなど参入 ワイヤレスイヤホンなどの使いすぎによる「隠れ難聴」が若年層に増え...（[原文](https://x.com/nikkei/status/2124824132797833407)）
-- 19:30 @BloombergJapan：ヘッジファンド、モメンタム株に対し弱気姿勢に転換－モルガンS（[原文](https://x.com/BloombergJapan/status/2124827859365564814)）
-- 19:31 @nikkei：JR東日本、Suicaペンギン後継は「紫のウサギ」 他２キャラも活用検討（[原文](https://x.com/nikkei/status/2124828158419427728)）
-- 19:45 @BloombergJapan：株は「絶好の買い場」、先週の大幅安で－モルガンSのウィルソン氏（[原文](https://x.com/BloombergJapan/status/2124831639054287117)）
-- 19:47 @nikkei：ロシア、核弾頭搭載の衛星を年内打ち上げか 情報機関が警告と独報道（[原文](https://x.com/nikkei/status/2124832185513382195)）
-- 20:01 @nikkei：最新ウォークマンは65万円、｢初代比20倍｣に映るソニーのブランド戦略 音質の向上を求めた結果、重く高額になり「壊れるの...（[原文](https://x.com/nikkei/status/2124835711668916489)）
-- 20:53 @nicosokufx：🇯🇵🇺🇸「AI・半導体ショック」📉 過去20年の急落と比較すると… ✅ 日経平均 -22.01% 👉 〇〇ショック級の下...（[原文](https://x.com/nicosokufx/status/2124848861558825108)）
-- 21:01 @nikkei：日本人の半数「努力したくない」 11年で15ポイント増、中高年で顕著 野村総研の担当者は、コロナ禍や物価高の影響を踏まえ...（[原文](https://x.com/nikkei/status/2124850809493983308)）
-- 21:05 @nikkei：ウクライナ、地中海で「ロシア軍艦撃沈」 リビアで海上ドローン攻撃（[原文](https://x.com/nikkei/status/2124851815355146447)）
-- 21:15 @BloombergJapan：クラウドストライク、Zscalerを440億ドルで買収へ－業界最大級（[原文](https://x.com/BloombergJapan/status/2124854264929398919)）
-- 21:15 @nikkei：置き配、玄関前に荷物で「配達完了」 トラブル相次ぎ国交省が指針（[原文](https://x.com/nikkei/status/2124854336354177336)）
-- 21:53 @nikkei：駐ロシア大使が拘束邦人記者と面会 外務省「健康状態問題なし」（[原文](https://x.com/nikkei/status/2124863894996890106)）
-- 22:08 @nicosokufx：くりっく株365「（市場）開いてて良かった！」 日経225 58,000円台回復 11/20(金) 安値から+4000円...（[原文](https://x.com/nicosokufx/status/2124867687893582252)）
-- 22:52 @nicosokufx：日本休場で、マンデー狼狽売りをせずに助かった人も多そう😆（[原文](https://x.com/nicosokufx/status/2124878699103400005)）
-- 23:30 @BloombergJapan：企業のM&amp;A総額、今年すでに4.6兆ドル－あと7000億ドルで過去最高に（[原文](https://x.com/BloombergJapan/status/2124888312225685596)）
-- 23:45 @BloombergJapan：ロシア軍艦がリビア沖で沈没、ウクライナが攻撃とゼレンスキー氏発表（[原文](https://x.com/BloombergJapan/status/2124892093424247258)）
+- 18:33　彭博日本：馬斯克 xAI 因生成未經同意的性影像（含兒童）遭美國兩州起訴。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125175847363436768)）
+- 23:05　Forbes JAPAN：以 AI 代理人挑戰美國人手不足的稅務調查，欲追回一兆美元未繳稅款。（[@forbesjapan](https://x.com/forbesjapan/status/2125244459642397152)）
+
+## 未列入主題（27 則）
+
+- 18:02　@BloombergJapan：彭博日本：巴西國會通過盧拉歲出抑制策，通過前雷亞爾下跌。（[原文](https://x.com/BloombergJapan/status/2125168288338518135)）
+- 18:09　@nikkei：日經：［社論］日本應加強支持 ICC。（[原文](https://x.com/nikkei/status/2125169910623903875)）
+- 18:13　@nikkei：日經：NHK 26 年度中期決算虧損 197 億圓，收視費連續七年減少。（[原文](https://x.com/nikkei/status/2125170918003560543)）
+- 18:21　@nikkei：日經：北韓金與正「勸告」平壤瑞士外交辦事處撤離。（[原文](https://x.com/nikkei/status/2125172930917089506)）
+- 18:27　@nikkei：日經：海外居住高收入董事所得稅率由 20% 提高至 30%（政府、執政黨）。（[原文](https://x.com/nikkei/status/2125174441000739308)）
+- 18:27　@nikkei：日經、彭博日本：首相高市與 ICC 所長面談，宣布提前撥付 ICC 分擔金，27 年分年內全額繳納。（[原文](https://x.com/nikkei/status/2125174441998975153)）
+- 18:59　@nikkei：日經：國家沒收外國資產的時代（The Economist）。（[原文](https://x.com/nikkei/status/2125182497273020649)）
+- 19:03　@BloombergJapan：彭博日本：道奇隊老闆掌控 Guggenheim 36%，旗下保險公司亦投資。（[原文](https://x.com/BloombergJapan/status/2125183406908522688)）
+- 19:31　@nikkei：日經：新宿區開始檢討設置小型火葬場，將公開徵求用地。（[原文](https://x.com/nikkei/status/2125190551490240745)）
+- 19:33　@BloombergJapan：彭博日本：中國延後禁止重要礦物對美出口，力圖維持貿易休戰。（[原文](https://x.com/BloombergJapan/status/2125190966856364460)）
+- 19:39　@nikkei：日經：維新聽取意見，國防企業訂單恐「減半或減八成」。（[原文](https://x.com/nikkei/status/2125192560247234781)）
+- 19:43　@nikkei：日經：京成電鐵出售部分 Oriental Land 股份，約已發行股份 1% 弱。（[原文](https://x.com/nikkei/status/2125193567026946236)）
+- 19:49　@nikkei：日經：Sony 損保恐外洩 95 萬筆客戶資訊，受託方遭不當存取。（[原文](https://x.com/nikkei/status/2125195076510859763)）
+- 20:03　@BloombergJapan：日經、彭博日本：首相高市與 ICC 所長面談，宣布提前撥付 ICC 分擔金，27 年分年內全額繳納。（[原文](https://x.com/BloombergJapan/status/2125198525734461442)）
+- 20:03　@nikkei：日經：佳能時隔 24 年重返半導體 ArF 曝光設備，供需吃緊帶來商機。（[原文](https://x.com/nikkei/status/2125198600321839162)）
+- 20:47　@nikkei：日經：中國調查上海市最高領導陳吉寧，指「重大違紀」。（[原文](https://x.com/nikkei/status/2125209672801980753)）
+- 20:48　@BloombergJapan：彭博日本：MS&AD 社長透露曾檢討出售旗下壽險，28 年預定合併。（[原文](https://x.com/BloombergJapan/status/2125209865349935128)）
+- 21:01　@nikkei：日經：阿辻哲次漢字漫步，「秋」與「穐」。（[原文](https://x.com/nikkei/status/2125213226212134957)）
+- 21:03　@BloombergJapan：彭博日本：德國企業景氣展望改善，期待指數 91.9。（[原文](https://x.com/BloombergJapan/status/2125213644136780170)）
+- 21:22　@nicosokufx：にこそく：TradingView 黑色星期五特賣（PR）。（[原文](https://x.com/nicosokufx/status/2125218479779512709)）
+- 21:31　@nikkei：日經：據澳洲媒體，索羅門群島表達終止與中國安全協定的意向。（[原文](https://x.com/nikkei/status/2125220747400384644)）
+- 21:31　@nikkei：日經：政府檢討對避稅指南者設罰則，拒報客戶資訊將處罰。（[原文](https://x.com/nikkei/status/2125220748981596178)）
+- 22:30　@BloombergJapan：彭博日本：澤倫斯基期待美國新國會，若年內無和平協議。（[原文](https://x.com/BloombergJapan/status/2125235545093632326)）
+- 22:45　@BloombergJapan：彭博日本：美國準備提高對中國、歐盟產品關稅，最快 24 日。（[原文](https://x.com/BloombergJapan/status/2125239324975219039)）
+- 22:51　@nikkei：日經：樂天證券客戶資產餘額 168 萬筆資料外洩，含性別與國籍。（[原文](https://x.com/nikkei/status/2125240877954027788)）
+- 23:23　@nikkei：日經：歐盟對 HV 緊急進口限制，12 月起，日本製亦適用。（[原文](https://x.com/nikkei/status/2125248932200493082)）
+- 23:45　@BloombergJapan：彭博日本：胡塞武裝再度攻擊利雅德金融區高樓（國營通訊社）。（[原文](https://x.com/BloombergJapan/status/2125254554174296543)）
