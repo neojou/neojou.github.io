@@ -1,68 +1,70 @@
-# 今日老馬｜2026-11-25 11:00–17:00（台北）
+# 今日老馬｜2026-11-26 11:00–17:00（台北）
 
-範圍：2026-11-25 11:00 至 17:00（台北，含起點不含終點）；來源：@elonmusk（含回覆、引用、轉發）、@bot、@grok、@SpaceXSI 原創。本時段共 22 則，全部為馬斯克（轉發 13、回覆 6、引用 3）；三個額外帳號本時段無新原創。
+範圍：2026-11-26 11:00 至 17:00（台北，含起點不含終點）；來源：@elonmusk（含回覆、引用、轉發）、@bot、@grok、@SpaceXSI 原創。本時段共 27 則，全部為馬斯克（原創 2、回覆 11、引用 3、轉發 11）；三個額外帳號本時段無新原創。
 
 **今日重點**
-- 馬斯克引用說 Grok Bot 能幫人研究黑色星期五最佳優惠並確認是真的，並連轉多則用戶稱讚 Grok Bot 的貼文。
-- 連續轉發、回覆「USAID 檔案」相關貼文，回覆 @grok 整理的援助項目清單「Crazy」。
-- 被 @Jason 抱怨 X 搜尋十年沒進步，馬斯克回「我們正在處理」。
+- 馬斯克說每個美國孩子會拿到兩股 SpaceX：公司那股下個月轉，他個人那股等明年 6 月禁售期到期後轉；並建議大家抱著股票。
+- 馬斯克說 SpaceX 在數位超級智慧上「連銅牌都還沒拿到」，但在太空領域領先全球一個數量級。
+- 轉發 Neuralink 取得 FDA 核准啟動美國首個植入式腦機介面樞紐試驗 LINK。
+
+## Tesla
+
+### 2026-11-26 16:21（台北）｜「Tesla 有超人視覺」
+馬斯克引用 @rustavi 的 FSD v15 大雨行駛影片並寫「Teslas have superhuman vision」。原貼說擋風玻璃滿是雨水與眩光時，FSD v15 視覺化仍鎖定追蹤每輛車，即使出現「Camera Visibility Limited」警告也照常行駛（他人說法）。
+- [馬斯克這則](https://x.com/elonmusk/status/2125867631546712066)｜[引用 @rustavi](https://twitter.com/rustavi/status/2125662404541337779)
+
+另有 1 則類似（16:31 轉發 @EvaFox：Franz von Holzhausen 2008 年離開 Mazda 加入當時瀕臨破產的 Tesla 的經過，[馬斯克轉發](https://x.com/elonmusk/status/2125870112058294379)｜[轉推 @EvaFox](https://x.com/i/status/2125594880760058347)）。
 
 ## SpaceX／Starship／Starlink
 
-### 2026-11-25 14:52（台北）｜轉發 ARK：SpaceX 軌道算力成本 2028 年可追平地面
-轉發 @wintonARK：以「每 GW 晶片平準化成本」計算，他們認為 SpaceX 的軌道算力到 2028 年可與地面基準持平，2029 年超越 SpaceX 自己的地面效率；若晶片因供過於求而有效壽命縮短，軌道算力會更受益（他人說法）。
-- [馬斯克轉發](https://x.com/elonmusk/status/2125482697611169837)｜[轉推 @wintonARK](https://x.com/i/status/2125354603579650198)
+### 2026-11-26 11:40–16:58（台北）｜每個美國孩子兩股 SpaceX：一股公司給、一股馬斯克個人給
+11:43 馬斯克原創：「每個美國孩子都會拿到兩股 SpaceX，一股來自公司、一股來自我個人。」14:01 自己補充：公司那股下個月轉，他個人那股在他明年 6 月禁售期到期時轉。16:20 再補：若 SpaceX 成功讓生命多行星化，並利用太陽能量的百萬分之一，價值約是現今全球經濟的一百萬倍；目標極難但有路徑，「建議抱著你的股票」。相關轉發：@altcap 說已申領 530A 帳戶的未滿 18 歲兒童可得兩股、約 7,000 萬名兒童符合資格（他人說法）；@RapidResponse47 引 CNBC 報導 SpaceX 與馬斯克各捐一股給有效的 Trump Accounts，馬斯克回「🇺🇸🇺🇸」；@WayneVaughan 貼出 Trump account 註冊頁。16:34 回覆 @LibertyValkyrie（稱 24 州寄養青少年無法取得這些股票，他人說法）：「我們會設法讓寄養孩子也拿到股票。」
+- [馬斯克原創 11:43](https://x.com/elonmusk/status/2125797463047258119)｜[馬斯克補充 14:01](https://x.com/elonmusk/status/2125832205301878841)｜[馬斯克補充 16:20](https://x.com/elonmusk/status/2125867208358105441)｜[馬斯克轉發 @altcap](https://x.com/elonmusk/status/2125796819129286792)｜[轉推 @altcap](https://x.com/i/status/2125680126004486294)｜[馬斯克轉發 @RapidResponse47](https://x.com/elonmusk/status/2125870221789368757)｜[馬斯克回覆](https://x.com/elonmusk/status/2125870266404516343)｜[@RapidResponse47 原貼](https://x.com/i/status/2125696678984667553)｜[CNBC 報導](https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html)｜[馬斯克轉發 @WayneVaughan](https://x.com/elonmusk/status/2125876818515497340)｜[Trump Accounts 註冊頁](https://trumpaccounts.gov)｜[馬斯克回覆寄養孩子](https://x.com/elonmusk/status/2125870759243620650)｜[回覆 @LibertyValkyrie](https://x.com/i/status/2125749668889944432)
+
+### 2026-11-26 15:44–16:39（台北）｜「終於發生了」與 SpaceX 的領先
+15:44 馬斯克原創「Hard to believe this finally happened」附一張圖（圖中內容未在文字中說明）。16:12 回覆 @2by32：SpaceX 在數位超級智慧上「連領獎台的銅牌都還沒拿到，這讓我難過😢」。16:39 回覆 @TSLAFanMtl（該貼以每顆衛星造價 300 萬美元、175 kW 算力、每公斤發射 250 美元等假設估算軌道 AI 的獲利，他人說法）：「沒有無法超越的優勢，但至少目前 SpaceX 領先世界其他地方一個數量級，而且差距似乎在擴大。」
+- [馬斯克原創 15:44](https://x.com/elonmusk/status/2125858270296285463)｜[附圖](https://x.com/elonmusk/status/2125858270296285463/photo/1)｜[馬斯克回覆 16:12](https://x.com/elonmusk/status/2125865347802956231)｜[回覆 @2by32](https://x.com/i/status/2125860363144925645)｜[馬斯克回覆 16:39](https://x.com/elonmusk/status/2125872083393446092)｜[回覆 @TSLAFanMtl](https://x.com/i/status/2125793034390405130)
+
+### 2026-11-26 11:39（台北）｜Starlink Mobile 在哈薩克上線不到兩個月
+轉發 @Starlink：Starlink Mobile 在哈薩克上線不到兩個月，已有 300 多萬 @_Beeline_kz 用戶在無訊號區用手機傳訊、用 App 與地圖（官方說法）。
+- [馬斯克轉發](https://x.com/elonmusk/status/2125796651977839066)｜[轉推 @Starlink](https://x.com/i/status/2125665653432713405)
 
 ## xAI／Grok
 
-### 2026-11-25 13:40（台北）｜Grok Bot 可研究黑五優惠並確認真假
-馬斯克引用一則黑五貼文並寫「Grok Bot 可以幫你研究最佳的黑色星期五優惠並確認它們是真的」。原貼說設定一次後 Grok Bot 每隔幾小時檢查各家商店、只在真的降價時通知，並舉 Best Buy、Amazon、Walmart、Target 的用法（他人說法）。
-- [馬斯克這則](https://x.com/elonmusk/status/2125464682580623467)｜[引用原貼](https://x.com/i/status/2125227960877597047)
-
-### 2026-11-25 13:03（台北）｜連轉用戶稱讚 Grok Bot
-13:03 轉發 @Texas_Twins_Dad：試了 Gemini 與 Claude，聰明但不好用，Grok Bot 好用得多；13:34 轉發 @JJEnglert：「Grok Bot 真的很好」；13:38 轉發 @stark0xbt：Baker 在 a16z 節目說用 Claude Code 做的工具，用 Grok Bot 三分鐘就做出更好的版本，覺得 Grok Bot「像另一個 ChatGPT 時刻」（皆他人說法）。
-- [馬斯克轉發 13:03](https://x.com/elonmusk/status/2125455339403546788)｜[轉推 @Texas_Twins_Dad](https://x.com/i/status/2125399348389273951)｜[馬斯克轉發 13:34](https://x.com/elonmusk/status/2125463147645641058)｜[轉推 @JJEnglert](https://x.com/i/status/2125378906459140191)｜[馬斯克轉發 13:38](https://x.com/elonmusk/status/2125464102785130606)｜[轉推 @stark0xbt](https://x.com/i/status/2125331798083453382)
-
-### 2026-11-25 12:58（台北）｜轉發 @grok 解釋「語意壓縮與相關」
-轉發 @grok（較早的貼文）：說馬斯克描述的是神經網路運作核心，語意壓縮是把原始資料擠成精簡的意義模型，相關則是從這個模型映射到有用輸出；以車輛影像與感測器資料壓縮成場景理解、再直接對應到駕駛指令為例。
-- [馬斯克轉發](https://x.com/elonmusk/status/2125453976275685725)｜[轉推 @grok](https://x.com/i/status/2125282775641030819)
-
-另有 1 則類似（16:45 轉發 @bot 舊貼「Grok Bot 現在可以打電話了」，[馬斯克轉發](https://x.com/elonmusk/status/2125511153145311665)｜[轉推 @bot](https://x.com/i/status/2118043939592942052)）。
+### 2026-11-26 16:10–16:26（台北）｜轉發 Grok Bot 的 Black Friday 用法與意見徵集
+轉發 @JasonBud：建議請 Grok @Bot 幫你找原本就要買的東西的 Black Friday 優惠，說 Bot 會跨網站比價並自動套用折扣碼（他人說法）。另轉發 @Baconbrix：「我在做 Grok Bot，想知道最大的問題是什麼。」
+- [馬斯克轉發 @JasonBud](https://x.com/elonmusk/status/2125864677649657884)｜[轉推 @JasonBud](https://x.com/i/status/2125715363367387522)｜[馬斯克轉發 @Baconbrix](https://x.com/elonmusk/status/2125868709835362312)｜[轉推 @Baconbrix](https://x.com/i/status/2125747621331611811)
 
 ## AI 與資料中心
 
-### 2026-11-25 13:31（台北）｜黃仁勳相關：「True」與在 NVIDIA 合照
-馬斯克引用 @laceypresley 引述黃仁勳「你不會被 AI 搶走工作，而是被會用 AI 的人搶走」，寫「True」。14:51 轉發 @teslaownersSV：馬斯克與 @JensenHuang 在 NVIDIA 的照片（他人貼文）。
-- [馬斯克這則](https://x.com/elonmusk/status/2125462322483503370)｜[引用 @laceypresley](https://x.com/i/status/2125305701794721985)｜[馬斯克轉發 14:51](https://x.com/elonmusk/status/2125482368899469424)｜[轉推 @teslaownersSV](https://x.com/i/status/2125444500034322719)
-
-### 2026-11-25 13:37（台北）｜「Google 做得很出色」
-引用 @sundarpichai：Neon 在付費 API 創下首日使用紀錄，@Antigravity 每日 token 自 Argon 推出 6 週來增加 82%（他人說法）。馬斯克寫「Impressive work by Google」。
-- [馬斯克這則](https://x.com/elonmusk/status/2125463852146114994)｜[引用 @sundarpichai](https://x.com/i/status/2125311868168515603)
-
-### 2026-11-25 15:01（台北）｜Dell 創紀錄季報：「Well done」
-回覆 @MichaelDell：營收 549 億美元（年增 103%）、AI 伺服器營收 220 億美元（年增 291%）、AI 積壓訂單 1,323 億美元等多項紀錄（他人說法）。馬斯克回「Well done」。
-- [馬斯克這則](https://x.com/elonmusk/status/2125484986619064741)｜[回覆 @MichaelDell](https://x.com/i/status/2125379712948072778)
+### 2026-11-26 14:07–15:27（台北）｜AI 作品「Claudia」與「機器人和 SI 會解決醫療」
+@kukulabanze 說 AI 角色作品「Claudia」可能是今年最重要的藝術作品之一（他人說法），馬斯克回「I agree」；15:27 對 @telsopian 介紹 Claudia 的貼文回「Sooo good」。15:17 回覆 @vespro_exe：「😂 機器人和 SI 會解決醫療。」
+- [馬斯克回覆 14:07](https://x.com/elonmusk/status/2125833736654852109)｜[回覆 @kukulabanze](https://x.com/i/status/2125415245170802990)｜[馬斯克回覆 15:27](https://x.com/elonmusk/status/2125853914151207097)｜[回覆 @telsopian](https://x.com/i/status/2116732487833411999)｜[馬斯克回覆 15:17](https://x.com/elonmusk/status/2125851320997605562)｜[回覆 @vespro_exe](https://x.com/i/status/2125833507444322557)
 
 ## 政治時事
 
-### 2026-11-25 12:48（台北）｜USAID 檔案：連串轉發與回覆
-12:48 轉發 @kylenabecker 稱「USAID 檔案」是他讀過最噁心的內容；13:12 轉發 @MikeBenzCyber 說 USAID 找 Global Disinformation Index 指導如何讓新聞網站被列黑名單；13:13 轉發 @grok 列出的援助項目清單（如伊拉克幼兒 2,000 萬美元、埃及觀光 600 萬美元等），13:14 回覆 @grok、@iAnonPatriot「Crazy」；15:02 回覆並轉發 @C_3C_3（USAID 不是在援助窮人）「True」（清單與評論皆他人說法）。
-- [馬斯克轉發 12:48](https://x.com/elonmusk/status/2125451484582264984)｜[轉推 @kylenabecker](https://x.com/i/status/2125432257066537024)｜[馬斯克轉發 13:12](https://x.com/elonmusk/status/2125457471045333498)｜[轉推 @MikeBenzCyber](https://x.com/i/status/2125453601686360501)｜[馬斯克轉發 13:13](https://x.com/elonmusk/status/2125457952970772597)｜[馬斯克回覆 13:14](https://x.com/elonmusk/status/2125458006330823044)｜[回覆 @grok](https://x.com/i/status/2125452054919340171)｜[馬斯克回覆 15:02](https://x.com/elonmusk/status/2125485250402992638)｜[馬斯克轉發 15:02](https://x.com/elonmusk/status/2125485257558532388)｜[回覆 @C_3C_3](https://x.com/i/status/2125431028655542285)
-
-### 2026-11-25 14:55（台北）｜亞特蘭大命案嫌犯有 55 次前科：「!!」
-回覆 @EndWokeness（說亞特蘭大一名女子上月在旅館遇害，嫌犯有 55 次被捕紀錄，他人說法）：「!!」。
-- [馬斯克這則](https://x.com/elonmusk/status/2125483527219314774)｜[回覆 @EndWokeness](https://x.com/i/status/2125370482098622934)
-
-另有 1 則類似（15:00 轉發 @libsoftiktok 談冰島性別權力失衡說法，[馬斯克轉發](https://x.com/elonmusk/status/2125484832344186969)｜[轉推 @libsoftiktok](https://x.com/i/status/2125300169977807284)）。
+### 2026-11-26 15:44–16:35（台北）｜轉發 USAID 檔案相關貼文
+轉發 @lsanger：他把「USAID Files」做成可搜尋資料庫，並稱 2022 年 USAID 指引文件提到在喬治亞等地的計畫會把帳號名單分享給 Meta 以便刪除或降權（他人說法）。另轉發 @alx 稱這才是有人因關閉 USAID 而對川普、馬斯克與 DOGE 不滿的真正原因（他人說法，附圖）。
+- [馬斯克轉發 @lsanger](https://x.com/elonmusk/status/2125858334947303749)｜[轉推 @lsanger](https://x.com/i/status/2125805681265782991)｜[馬斯克轉發 @alx](https://x.com/elonmusk/status/2125871084692005227)｜[轉推 @alx](https://x.com/i/status/2125645570177986838)
 
 ## X 平台與資訊辨別
 
-### 2026-11-25 11:17（台北）｜X 搜尋太爛？「我們正在處理」
-回覆 @Jason（抱怨 X 搜尋十多年沒進步，問能不能在設定改用 Grok 搜尋，他人說法）：「We’re working on it」。
-- [馬斯克這則](https://x.com/elonmusk/status/2125428724766269672)｜[回覆 @Jason](https://x.com/i/status/2125272288635376004)
+### 2026-11-26 16:09（台北）｜社群註記糾正尺寸迷思
+馬斯克引用 @leadingreport「依每日郵報，美國男性平均勃起長度 5.6 吋」並寫：社群註記剛救了很多以為自己太小的男生。
+- [馬斯克這則](https://x.com/elonmusk/status/2125864501019070680)｜[引用 @leadingreport](https://twitter.com/leadingreport/status/2125728474015096866)
 
 ## 其他
 
-### 2026-11-25 12:55（台北）｜迷因與簡短回覆
-12:55 轉發 @chrisalbon 一張「有時真的感覺像這樣」的圖；13:12 回覆 @LyalinDotCom（「Elon 又在作惡了」配圖）：「😂」。
-- [馬斯克轉發](https://x.com/elonmusk/status/2125453275256557985)｜[轉推 @chrisalbon](https://x.com/i/status/2125380069724196865)｜[馬斯克回覆](https://x.com/elonmusk/status/2125457582810960343)｜[回覆 @LyalinDotCom](https://x.com/i/status/2125420178775109903)
+### 2026-11-26 11:39（台北）｜Neuralink 獲 FDA 核准啟動 LINK 樞紐試驗
+轉發 @neuralink：獲 FDA 核准啟動 LINK，美國首個植入式腦機介面樞紐試驗，建立在至今 30 多名受試者的基礎上，ALS 患者可能符合資格（官方說法）。
+- [馬斯克轉發](https://x.com/elonmusk/status/2125796602199900258)｜[轉推 @neuralink](https://x.com/i/status/2125694580544680185)
+
+### 2026-11-26 16:59（台北）｜Boring Co 拉斯維加斯隧道
+馬斯克引用 @boringcompany 並寫「Boring Co 已在維加斯底下挖了很多隧道」。原貼說 2.3 英里雙隧道從 Westgate 到 UNLV 對面（再到機場），開放後將新增 14 個 Loop 站（官方說法）。
+- [馬斯克這則](https://x.com/elonmusk/status/2125877031816630636)｜[引用 @boringcompany](https://twitter.com/boringcompany/status/2125742541253300563)
+
+### 2026-11-26 15:10（台北）｜「Ray 說得對」
+@MollySOShea 轉述 Ray Dalio：年輕人覺得自己沒有能動性只是心理感受，應該去實驗看看可能性（他人說法）。馬斯克回「Ray is right」。
+- [馬斯克回覆](https://x.com/elonmusk/status/2125849695377576347)｜[回覆 @MollySOShea](https://x.com/i/status/2125612473659064718)
+
+另有 2 則類似（16:20 轉發 @cb_doge 引述 Maye Musk 談馬斯克陪孩子，[馬斯克轉發](https://x.com/elonmusk/status/2125867325572120668)｜[轉推 @cb_doge](https://x.com/i/status/2125861926882381859)；16:54 回覆 @kcoleman 感恩節祝福「Nice work, Keith! 😂」，[馬斯克回覆](https://x.com/elonmusk/status/2125875847466741996)｜[回覆 @kcoleman](https://x.com/i/status/2125867611124912355)）。

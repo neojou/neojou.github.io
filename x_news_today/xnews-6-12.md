@@ -1,128 +1,126 @@
-# X 財經日報｜昨日 06:00–12:00（2026-11-25）
+# 昨日X財經 6–12（2026-11-26）
 
-時間範圍：2026-11-25 06:00–12:00（台北時間，半開區間）
-來源帳號：@goto_finance、@nikkei、@BloombergJapan、@yurumazu、@fx_musashi、@nicosokufx、@byJuliaLove、@daveyalba、@NickTimiraos、@forbesjapan（只收原創與引用，不含回覆與純轉發）
-本時段共 120 則原創／引用貼文。
-警告：本時段達 120 則（≥100），已全數處理。
+時間範圍：2026-11-26 06:00–12:00（台北時間，半開區間）
+來源帳號：後藤達也 @goto_finance、日本経済新聞 @nikkei、ブルームバーグニュース @BloombergJapan、Emin Yurumazu @yurumazu、シカウチ @fx_musashi、にこそく @nicosokufx、Julia Love @byJuliaLove、Davey Alba @daveyalba、Nick Timiraos @NickTimiraos、Forbes JAPAN @forbesjapan（原創與引用，不含回覆與純轉發）。
+本時段共 129 則。
+⚠️ 本時段貼文達 100 則以上，已完整處理。
 
 ## 1. 美元日圓利率匯率相關
 
-- 09:17　シカウチ：シカウチ發布自用的昨日總結與今日見通し記事。（[@fx_musashi](https://x.com/fx_musashi/status/2125398544937086986)）
-- 09:30　彭博日本：澳洲通膨加速，儘管今年已升息 5 次，物價壓力仍強。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125401819878768777)）
-- 10:00　彭博日本：日圓對美元在 159 圓台前半，隨股市在狹幅整理，債券看漲。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125409383592944077)）
-- 10:16　彭博日本：債券交易員急於對沖美國降息，因擔心 FRB 升息使景氣放緩。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125413163734544886)）
-- 10:45　Nick Timiraos：Timiraos 引分析師對 PCE 的推算：10 月整體物價年增 3.8%、核心年增 3.2%（月增 0.29%）。（[@NickTimiraos](https://x.com/NickTimiraos/status/2125420613531501033)）
+- Nick Timiraos（@NickTimiraos）：Warsh 領導的 Fed 要如何因應金融情勢趨緊、通膨仍偏熱的訊號，並提到與2018年12月的類比，附其撰文連結；匯率：日圓兌美元159日圓台前段，因 AI 疑慮與新關稅而避險、債券看漲（[@NickTimiraos 09:22](https://x.com/NickTimiraos/status/2125762207434654042)；[@BloombergJapan 08:00](https://x.com/BloombergJapan/status/2125741456144928782)）
 
 ## 2. 資產價格與市場情緒
 
-- 06:28　にこそく：美股「道瓊續漲，半導體、記憶體股回落」。（[@nicosokufx](https://x.com/nicosokufx/status/2125355861560451193)）
-- 06:37　にこそく：美股 AI・半導體由歷史性急漲一轉為急跌。（[@nicosokufx](https://x.com/nicosokufx/status/2125358277588574293)）
-- 07:00　彭博日本、日經、にこそく：日股預期反落：美國 AI・半導體股下跌、黃仁勳復帰的好感不持續，加上美國關稅疑慮、日圓偏軟；日經先物圖形仍向下，日經平均反落開盤。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125364012648980762)、[@nikkei](https://x.com/nikkei/status/2125364521241878918)、[@BloombergJapan](https://x.com/BloombergJapan/status/2125367792614482181)、[@nicosokufx](https://x.com/nicosokufx/status/2125370297180426334)、[@nikkei](https://x.com/nikkei/status/2125382131002101897)）
-- 07:32　にこそく：にこそく連發 AI・半導體與日經／韓國 KOSPI 相關圖文貼文（多為短句或無文字）。（[@nicosokufx](https://x.com/nicosokufx/status/2125371986826391959)、[@nicosokufx](https://x.com/nicosokufx/status/2125386048851313086)、[@nicosokufx](https://x.com/nicosokufx/status/2125394127642906934)、[@nicosokufx](https://x.com/nicosokufx/status/2125395198016643316)）
-- 07:45　Forbes JAPAN：比特幣過去 30 天跌幅約 25%。（[@forbesjapan](https://x.com/forbesjapan/status/2125375321973387600)）
-- 08:00　彭博日本：量化基金也難以追隨目眩的美股行情。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125379129033871826)）
-- 08:04　にこそく：にこそく引用貼文：只要有波動什麼都能做，「股價動就好」。（[@nicosokufx](https://x.com/nicosokufx/status/2125380112908738876)）
-- 08:15　彭博日本：Kioxia 等 AI 相關股的信用交易浮虧，成為日股反彈的阻力。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125382910681268494)）
-- 08:21　にこそく：にこそく盤中連續評論日經平均：能否守在 57,000 圓前後、急跌但上漲家數居多、「デンプシー・ロール」式往復震盪、昨日漲幅幾乎全數回吐。（[@nicosokufx](https://x.com/nicosokufx/status/2125384420156920241)、[@nicosokufx](https://x.com/nicosokufx/status/2125385250192986579)、[@nicosokufx](https://x.com/nicosokufx/status/2125387263014265197)、[@nicosokufx](https://x.com/nicosokufx/status/2125403047967015308)、[@nicosokufx](https://x.com/nicosokufx/status/2125407537751368149)、[@nicosokufx](https://x.com/nicosokufx/status/2125412195467239589)、[@nicosokufx](https://x.com/nicosokufx/status/2125414497229918651)、[@nicosokufx](https://x.com/nicosokufx/status/2125416214197588471)、[@nicosokufx](https://x.com/nicosokufx/status/2125421064272625798)）
-- 09:41　にこそく：任天堂與 Kioxia 在記憶體行情中表現分歧。（[@nicosokufx](https://x.com/nicosokufx/status/2125404389972357216)）
-- 09:57　にこそく：にこそく指出賣壓不僅在半導體股，也擴及銀行股。（[@nicosokufx](https://x.com/nicosokufx/status/2125408583710097641)）
-- 10:20　後藤達也、日經、彭博日本、にこそく：日經平均大幅下挫：後藤達也稱一度跌約 2000 圓至 56,600 圓前後，彭博稱日圓 159 圓前半，日經稱 Advantest 等半導體股下跌，午前收跌 1934 圓、Fujikura 等 AI 疑慮引發賣壓。（[@goto_finance](https://x.com/goto_finance/status/2125414386663838109)、[@nikkei](https://x.com/nikkei/status/2125415350405562622)、[@BloombergJapan](https://x.com/BloombergJapan/status/2125416943758778835)、[@nikkei](https://x.com/nikkei/status/2125424414040711318)、[@nicosokufx](https://x.com/nicosokufx/status/2125425788279574612)）
-- 10:28　日經：京成電鐵股價創一年半新高，將出售部分 Oriental Land 股票。（[@nikkei](https://x.com/nikkei/status/2125416356572955085)）
-- 11:02　日經：Sony G 股價創年初來高，GTA6 好發進。（[@nikkei](https://x.com/nikkei/status/2125424918279987566)）
-- 11:11　にこそく：にこそく：日經平均其實是半導體指數，不是平均。（[@nicosokufx](https://x.com/nicosokufx/status/2125427189193814487)）
-- 11:22　にこそく：にこそく：5803 Fujikura「衝撃的な格下げ」。（[@nicosokufx](https://x.com/nicosokufx/status/2125430010647589355)）
-- 11:36　彭博日本：摩根大通設 S&P 500 2027 年底目標為 8200，低於市場預期。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125433339448316100)）
-
-## 3. 日本總體金融
-
-- 08:24　日經：10 月企業向けサービス價格上升 4.2%，為 36 年來最高水準。（[@nikkei](https://x.com/nikkei/status/2125385150653481351)）
-- 10:51　彭博日本：美國飯店 CMBS 投資面臨空前全損預期，連最上位債券也無法回收。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125421999837032623)）
+- AI 疑慮使 NVIDIA 相關不安，那斯達克100一度重挫5%；Burry 賣出那斯達克100 put、轉向偏多；日本信用評價損益率 -22.88%（「新冠衝擊以來最差」）；東證 Prime 騰落比率降至近2年最低；今年 Fear & Greed 指數底部區（含 VIX 對照）；有人說前日半導體收盤價基準不少人收到追繳（[@BloombergJapan 07:00](https://x.com/BloombergJapan/status/2125726311884743077)；[@BloombergJapan 08:45](https://x.com/BloombergJapan/status/2125752813154078837)；[@nicosokufx 07:42](https://x.com/nicosokufx/status/2125736850241577054)；[@nicosokufx 11:19](https://x.com/nicosokufx/status/2125791467335790893)；[@nicosokufx 09:58](https://x.com/nicosokufx/status/2125771121010303044)；[@nicosokufx 11:05](https://x.com/nicosokufx/status/2125788098042978310)）
 
 ## 4. 日銀與日本政策
 
-- 06:15　彭博日本：櫻井前委員：日銀政策利率到明年夏天前可能達 2%，應重視對應通膨。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125352661306208682)）
+- 日銀審議委員田村：升息「悠悠不急」，但對物價上行風險要俊敏應對（[@nikkei 10:04](https://x.com/nikkei/status/2125772704972177487)；[@BloombergJapan 11:30](https://x.com/BloombergJapan/status/2125794418821148913)）
+
+## 6. 美股 SpaceX
+
+- SpaceX 的「太空資料中心」前進一步，美國當局批准計畫（Bloomberg）；AI 大廠創辦人控制股權結構擴大，SpaceX 與 Anthropic 皆採用，對一般投資人有風險（[@BloombergJapan 06:00](https://x.com/BloombergJapan/status/2125711240156594443)；[@BloombergJapan 07:45](https://x.com/BloombergJapan/status/2125737653383393514)）
 
 ## 8. 美股 Anthropic
 
-- 07:30　Forbes JAPAN：Anthropic 股票 11 月 19 日（美國時間）上市首日開 111.50 美元（高於公開價 34%），之後急跌，24 日早上首度跌破公開價 83 美元。（[@forbesjapan](https://x.com/forbesjapan/status/2125371547099844808)）
-
-## 9. 日股 軟體銀行
-
-- 09:34　日經：孫正義談回歸原點，從 Pepper 之夢看 AI 共存線索。（[@nikkei](https://x.com/nikkei/status/2125402766646370379)）
+- Anthropic 股票看多看空分歧，同一家研究公司出現罕見的相反見解；Forbes JAPAN：Anthropic 數學家 Levent Alpoge 公開表示自己認為借助 Claude 證明了黎曼猜想（[@BloombergJapan 10:00](https://x.com/BloombergJapan/status/2125771732875149400)；[@forbesjapan 10:30](https://x.com/forbesjapan/status/2125779233456939121)）
 
 ## 12. 其他 AI 相關財經新聞
 
-- 07:45　彭博日本：資料中心如何為「美國夢」貢獻，向 AI 業界提問。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125375347097043450)）
-- 08:00　Forbes JAPAN：估值逾 4000 億日圓（27 億美元）、排名第一的 AI 新創，談共同創辦人的世界布局。（[@forbesjapan](https://x.com/forbesjapan/status/2125379098533105851)）
-- 08:15　Forbes JAPAN、日經、彭博日本：輝達黃仁勳復帰後續：Forbes 稱其在富比士即時富豪榜由 13 名退至 14 名；日經稱他透過科技經營者人脈與 Vance 影響政府；他在 24 日全公司集會向員工道歉，並稱每天接受心理諮商；川普稱赦免「常に選択肢」但不認為必要；日經批評川普與黃的多重利益衝突疑慮。（[@forbesjapan](https://x.com/forbesjapan/status/2125382871343141237)、[@nikkei](https://x.com/nikkei/status/2125386708606755041)、[@forbesjapan](https://x.com/forbesjapan/status/2125390421170016537)、[@BloombergJapan](https://x.com/BloombergJapan/status/2125398037535068661)、[@BloombergJapan](https://x.com/BloombergJapan/status/2125418220064502166)、[@nikkei](https://x.com/nikkei/status/2125428455630143675)）
-- 08:45　彭博日本：測試 Anthropic 與 OpenAI 的 AI 軍事運用，民間人與投降士兵也被列為目標，安全對策有課題。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125390472105369620)）
-- 09:00　彭博日本：Dell 第三度上調全年營收預測，AI 伺服器需求急增。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125394256047030313)）
-- 09:45　Forbes JAPAN：中國自駕大廠 WeRide 股價急跌，營收增 88% 但虧損擴大。（[@forbesjapan](https://x.com/forbesjapan/status/2125405521062822300)）
-- 09:45　彭博日本：輝達股價急漲，個人投資人靠選擇權獲利 6000 萬圓。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125405599760273657)）
-- 10:45　Forbes JAPAN：與 OpenAI、Google 連結在地企業，目標 2030 年前支援 1000 家並投入逾 10 億美元基金。（[@forbesjapan](https://x.com/forbesjapan/status/2125420620674724094)）
-- 11:06　彭博日本：HP 全年利潤可能超預期，記憶體半導體成本因應改善。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125425778925920732)）
-- 11:21　彭博日本：阿里巴巴 2027 年可能在中國境外發債，持續為 AI 基礎設施籌資。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125429559784808822)）
+- Bloomberg 專欄：NVIDIA「黃 2.0」救不了中國，美國監視加強使對中遊說逆風；亞洲資料中心因中國需求減少，把算力轉售歐美業者；NVIDIA 集體訴訟和解，就加密貨幣相關收益付約460億日圓；美 Vance 副總統稱 NVIDIA 黃仁勳「不是調查對象」，川普對黃的總統特赦稱「一直是選項，但不認為需要」，報導並稱美方在機密會議說明中國指示一事（Forbes JAPAN）；Kioxia 一度漲停、股價漲10%以上，4–9月最終損益改善額居首（2.1兆日圓），股東回報強化期待；JPMorgan 預測27年 AI 相關投資等級債71兆日圓，資本支出之後恐觸頂；Marks 稱「不投資 AI 不可能」；京瓷在零件事業投資8100億日圓以吸收 AI 需求；AI 富豪湧入豪宅市場，以 IPO 前股票擔保借款、有人提現金10億日圓（[@BloombergJapan 06:45](https://x.com/BloombergJapan/status/2125722484049649912)；[@BloombergJapan 07:15](https://x.com/BloombergJapan/status/2125730089681686819)；[@nikkei 08:40](https://x.com/nikkei/status/2125751565407465574)；[@forbesjapan 10:00](https://x.com/forbesjapan/status/2125771685932699652)；[@nikkei 10:46](https://x.com/nikkei/status/2125783276140802239)；[@forbesjapan 11:00](https://x.com/forbesjapan/status/2125786783330042152)；[@nikkei 09:28](https://x.com/nikkei/status/2125763644998754458)；[@nicosokufx 08:15](https://x.com/nicosokufx/status/2125745216217039159)；[@nikkei 07:20](https://x.com/nikkei/status/2125731433939345530)；[@BloombergJapan 09:45](https://x.com/BloombergJapan/status/2125767946333049112)；[@nikkei 11:46](https://x.com/nikkei/status/2125798391242211541)；[@nikkei 11:16](https://x.com/nikkei/status/2125790825145675881)；[@BloombergJapan 10:15](https://x.com/BloombergJapan/status/2125775512047964419)）
 
 ## 13. 其他 AI 相關科技新聞
 
-- 06:00　日經：許可外 AI 工具，近半管理職無申請擅自使用。（[@nikkei](https://x.com/nikkei/status/2125348919534108858)）
-- 07:30　彭博日本：駭客入侵美國 CIA 系統，取得非機密資訊。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125371570428240096)）
-- 07:46　Forbes JAPAN：COP31 的「電化」目標與 AI 耗電的現實衝突。（[@forbesjapan](https://x.com/forbesjapan/status/2125375573384171999)）
-- 08:30　彭博日本、日經：華為在美國被判有罪，涉竊取企業機密與伊朗交易、欺騙銀行。（[@BloombergJapan](https://x.com/BloombergJapan/status/2125386692928438763)、[@nikkei](https://x.com/nikkei/status/2125437999370363020)）
-- 08:31　Forbes JAPAN：無法追蹤的價值如何衡量：AI 搜尋 ROI 算法。（[@forbesjapan](https://x.com/forbesjapan/status/2125386898189455521)）
-- 08:36　Forbes JAPAN：AI 比人更受信任的時代：「信任逆轉」帶來的影響。（[@forbesjapan](https://x.com/forbesjapan/status/2125388155994145020)）
-- 08:54　Forbes JAPAN：AI 時代真正需要的人才是能「判斷不使用」的人。（[@forbesjapan](https://x.com/forbesjapan/status/2125392686152896933)）
-- 09:00　Forbes JAPAN：Forbes JAPAN：起業家以大膽決策加快經營速度，瞄準全球自動駕駛競賽領先集團。（[@forbesjapan](https://x.com/forbesjapan/status/2125394196928553283)）
-- 10:30　日經：Preferred Networks 從 AI 機器人到半導體全方位向企業聯盟提供技術。（[@nikkei](https://x.com/nikkei/status/2125416908266569764)）
-- 11:45　Forbes JAPAN：再度呼籲 iPhone 用戶盡速更新 iOS，惡意廣告大規模攻擊細節曝光。（[@forbesjapan](https://x.com/forbesjapan/status/2125435720890458560)）
+- Neuralink 的腦植入驗證試驗獲 FDA 批准；日本政府方針案：AI 活用規制檢視聚焦機器人計程車與醫療資料；生成式 AI 降低 App 開發門檻、海外成功需不同策略；企業「AI Agent」真正價值與測量；AI 資格別再「收集」；Mujin 與實體 AI 霸權；通往超人類機器人；AI 時代決勝在「思考」；AI 時代最大資產是「適當人聚集的空間」；CEO 的 AI 回答決定公司第一印象；AI 生成內容時代的溝通方法；增加採購 AI 未必提升事業價值；網路流量資料補強 AI 模型的收購案（Forbes JAPAN）（[@BloombergJapan 09:15](https://x.com/BloombergJapan/status/2125760387823870080)；[@nikkei 07:18](https://x.com/nikkei/status/2125730929645642190)；[@forbesjapan 06:30](https://x.com/forbesjapan/status/2125718835445780770)；[@forbesjapan 06:49](https://x.com/forbesjapan/status/2125723616776163398)；[@forbesjapan 06:58](https://x.com/forbesjapan/status/2125725881746550923)；[@forbesjapan 08:00](https://x.com/forbesjapan/status/2125741484561617384)；[@forbesjapan 07:26](https://x.com/forbesjapan/status/2125732928063992128)；[@forbesjapan 08:24](https://x.com/forbesjapan/status/2125747524384571884)；[@forbesjapan 08:32](https://x.com/forbesjapan/status/2125749537558114545)；[@forbesjapan 08:43](https://x.com/forbesjapan/status/2125752305886929402)；[@forbesjapan 08:48](https://x.com/forbesjapan/status/2125753564362629372)；[@forbesjapan 07:47](https://x.com/forbesjapan/status/2125738213075820567)；[@forbesjapan 08:45](https://x.com/forbesjapan/status/2125752809345925271)）
 
-## 未列入主題（48 則）
+## 未列入主題（89 則）
 
-- 06:00　@BloombergJapan：彭博日本早晨精選新聞電子報連結。（[原文](https://x.com/BloombergJapan/status/2125348880015393135)）
-- 06:00　@forbesjapan：美國頂尖商學院今秋申請人數大幅下滑，簽證趨嚴使外國申請者驟減。（[原文](https://x.com/forbesjapan/status/2125348897841377684)）
-- 06:17　@nicosokufx：にこそく：樂天證券「資訊外洩問題」。（[原文](https://x.com/nicosokufx/status/2125353106334781809)）
-- 06:30　@BloombergJapan：感恩節遊行 100 週年，紐約強風預報使巨型氣球亮黃燈。（[原文](https://x.com/BloombergJapan/status/2125356447487672642)）
-- 06:30　@forbesjapan：量子電腦企業 IonQ 股東過去 12 個月很辛苦。（[原文](https://x.com/forbesjapan/status/2125356447542448333)）
-- 06:30　@nikkei：高市政權警戒閣僚辭任骨牌，文科相問題。（[原文](https://x.com/nikkei/status/2125356516437819803)）
-- 06:45　@BloombergJapan：預測市場 Kalshi 的虧損集中在未滿 21 歲用戶（紐約市資料）。（[原文](https://x.com/BloombergJapan/status/2125360227495084310)）
-- 07:00　@forbesjapan：Forbes JAPAN：第 13 屆排行榜，上位 20 組過半較前年更替。（[原文](https://x.com/forbesjapan/status/2125363997654585623)）
-- 07:00　@forbesjapan：川普與俄羅斯的輕油協議，源自與伊朗紛爭談判失敗。（[原文](https://x.com/forbesjapan/status/2125364003107213815)）
-- 07:00　@nikkei：兒童使用 SNS 的對策，若怠忽業者可能受罰。（[原文](https://x.com/nikkei/status/2125364014834168288)）
-- 07:01　@forbesjapan：單人創業者的「孤獨」是倦怠風險，建立支援網絡的方法。（[原文](https://x.com/forbesjapan/status/2125364248721437177)）
-- 07:06　@forbesjapan：數位事業如何在「首筆交易前」建立信任。（[原文](https://x.com/forbesjapan/status/2125365506920317100)）
-- 07:10　@forbesjapan：Forbes JAPAN：與日本創投協會合作問卷，製作日本最具影響力創投排行。（[原文](https://x.com/forbesjapan/status/2125366513784033722)）
-- 07:11　@forbesjapan：領導者應斷絕的「經驗」惡性循環。（[原文](https://x.com/forbesjapan/status/2125366765228273837)）
-- 07:16　@forbesjapan：數據看技能職業界「高需求商業點子」7 選。（[原文](https://x.com/forbesjapan/status/2125368023712436538)）
-- 07:22　@forbesjapan：職場孤獨為何影響到家庭。（[原文](https://x.com/forbesjapan/status/2125369533666095562)）
-- 07:29　@forbesjapan：在短期壓力下達成持續成長的 20 項策略。（[原文](https://x.com/forbesjapan/status/2125371295378571743)）
-- 07:38　@forbesjapan：商業上「認識誰」只是故事的一半。（[原文](https://x.com/forbesjapan/status/2125373565012971955)）
-- 07:51　@forbesjapan：如何建立讓所有人受益的商業社群。（[原文](https://x.com/forbesjapan/status/2125376831830516157)）
-- 08:00　@forbesjapan：尤努斯與大崎洋共同創辦的日本發社會企業，將支援孟加拉貧困層。（[原文](https://x.com/forbesjapan/status/2125379099866837218)）
-- 08:01　@forbesjapan：英國購物者想在「小店」買東西，獨立零售店能否抓住聖誕需求。（[原文](https://x.com/forbesjapan/status/2125379348505260434)）
-- 08:09　@forbesjapan：脫化石燃料關鍵的「電化」，不應在 COP31 停滯。（[原文](https://x.com/forbesjapan/status/2125381361825730756)）
-- 08:16　@forbesjapan：銷售最危險的謊言：「我知道這位客戶想要什麼」。（[原文](https://x.com/forbesjapan/status/2125383123148099927)）
-- 08:19　@forbesjapan：事業成長為何使人事風險管理更複雜。（[原文](https://x.com/forbesjapan/status/2125383878328426755)）
-- 08:26　@forbesjapan：僅靠 Google 與 Meta 不夠：成長策略需要多元化。（[原文](https://x.com/forbesjapan/status/2125385639470461258)）
-- 08:30　@forbesjapan：首位在美國達成估值逾 10 億美元獨角獸的日本創業者，重視「開發者優先」。（[原文](https://x.com/forbesjapan/status/2125386646313152618)）
-- 08:32　@nikkei：民宿規制要求常駐人員，波及飯店無人櫃檯趨勢。（[原文](https://x.com/nikkei/status/2125387169459994967)）
-- 08:41　@forbesjapan：答案不在「資料量」，而是對顧客理解的深度。（[原文](https://x.com/forbesjapan/status/2125389414704861515)）
-- 08:48　@forbesjapan：領導力最危險的假設：「已經知道了」。（[原文](https://x.com/forbesjapan/status/2125391176065028473)）
-- 08:59　@forbesjapan：下一個商機在「對競爭對手的不滿」之中。（[原文](https://x.com/forbesjapan/status/2125393946553782666)）
-- 09:00　@nikkei：京都大學發新創以 iPS 治療自體免疫疾病，2027 年進行試驗。（[原文](https://x.com/nikkei/status/2125394216448663737)）
-- 09:06　@nikkei：外國人首度搭乘中國太空船，以國際合作對抗美國。（[原文](https://x.com/nikkei/status/2125395722233143416)）
-- 09:15　@forbesjapan：CSA 指出急著補洞反而可能造成新的障礙。（[原文](https://x.com/forbesjapan/status/2125397971185627216)）
-- 09:30　@forbesjapan：Forbes JAPAN：日本最具影響力創投排行第 1 名為 Coral Capital 的 James Rainey 與澤山陽平。（[原文](https://x.com/forbesjapan/status/2125401748684857500)）
-- 09:52　@nikkei：自民小林鷹之：宇宙廳到了該成形的時候，強化司令塔功能。（[原文](https://x.com/nikkei/status/2125407297224540513)）
-- 10:00　@forbesjapan：Forbes JAPAN PR：Orix 的伴走型事業承継。（[原文](https://x.com/forbesjapan/status/2125409296037097890)）
-- 10:00　@forbesjapan：Forbes JAPAN PR：麥肯錫談日本企業 1.7 兆美元成長機會的「5 大轉變」。（[原文](https://x.com/forbesjapan/status/2125409297358336097)）
-- 10:18　@nikkei：外部傳送的位置資訊，報導說明自家驗證 App 通訊紀錄的過程。（[原文](https://x.com/nikkei/status/2125413840133198121)）
-- 10:20　@nikkei：200 家信金與 108 家信組個人向共通 App 改版，開戶與匯款更容易。（[原文](https://x.com/nikkei/status/2125414343453868346)）
-- 10:24　@forbesjapan：數學中「證明」與「理解」的關聯與差異。（[原文](https://x.com/forbesjapan/status/2125415201055051877)）
-- 10:30　@nikkei：以「真正的成長戰略」克服人口減少，描繪下一個豐饒十年。（[原文](https://x.com/nikkei/status/2125416906530156677)）
-- 10:34　@nikkei：EV 補助預算用盡，年內歸零，日產系交車延後。（[原文](https://x.com/nikkei/status/2125417867227054485)）
-- 11:00　@forbesjapan：白宮兩年來幾乎不受國會介入，明年 1 月起情況將大不同。（[原文](https://x.com/forbesjapan/status/2125424395804106761)）
-- 11:00　@nikkei：堅果過敏激增，比例從 2011 年 2.3% 升至 2023 年 24.6%。（[原文](https://x.com/nikkei/status/2125424412153270441)）
-- 11:30　@forbesjapan：Forbes JAPAN：介紹 50 個讓「人人能成為社會營造者」的實踐團體。（[原文](https://x.com/forbesjapan/status/2125431945291288767)）
-- 11:30　@nikkei：久坐的代價：癌症死亡率上升與經濟負擔。（[原文](https://x.com/nikkei/status/2125431959929172301)）
-- 11:51　@BloombergJapan：高市政權消費稅減稅法案審議蒙上陰影，在野黨提出對文科相問責決議案。（[原文](https://x.com/BloombergJapan/status/2125437123268350051)）
-- 11:54　@nikkei：「名義上的董事」離職後請求加班費，上司蓋章佐證實態。（[原文](https://x.com/nikkei/status/2125438000691560891)）
+- 06:00 @forbesjapan：（Forbes JAPAN）美國新關稅基本案對日本最高15%，視協議結果替代案最高20%（[原文](https://x.com/forbesjapan/status/2125711285614707184)）
+- 06:00 @nikkei：日本政府研議對企業課以半導體與先進零件穩定採購計畫義務（經濟安保）（[原文](https://x.com/nikkei/status/2125711305529000380)）
+- 06:00 @nikkei：札幌新創以扇貝內臟製魚飼料，去除鎘作為魚粉替代（[原文](https://x.com/nikkei/status/2125711309782032398)）
+- 06:15 @BloombergJapan：Citadel 將今年運用收益35億美元返還客戶，控制資產規模（[原文](https://x.com/BloombergJapan/status/2125715017903362558)）
+- 06:15 @forbesjapan：社長出身大學排名：日大1.6萬人居首，東大第15（[原文](https://x.com/forbesjapan/status/2125715060295389668)）
+- 06:16 @nikkei：長時間「帶回家加班」罹憂鬱症，東京地院認定工傷，推翻國家不認定（[原文](https://x.com/nikkei/status/2125715326708949346)）
+- 06:17 @nicosokufx：美股「道瓊一度跌1100點後翻正」（[原文](https://x.com/nicosokufx/status/2125715472599621974)）
+- 06:30 @nicosokufx：AI、半導體「全面下跌後跌幅縮小」（[原文](https://x.com/nicosokufx/status/2125718738096054428)）
+- 06:30 @nikkei：KDDI 首次發行個人向社債1000億日圓，年利2.266%（[原文](https://x.com/nikkei/status/2125718895923224584)）
+- 06:30 @nikkei：NISA 免稅額度「賣出當年恢復」案擱置（政府、執政黨方針）（[原文](https://x.com/nikkei/status/2125718897407975485)）
+- 06:36 @nikkei：自民歲出改革提言案：研議擴大公營賭博繳庫制度（[原文](https://x.com/nikkei/status/2125720360523886816)）
+- 06:40 @nikkei：日經平均受NY道瓊續漲助攻（先讀股市）（[原文](https://x.com/nikkei/status/2125721366875742649)）
+- 06:42 @nikkei：密碼管理 1Password 客戶資料外洩，密碼未洩漏（[原文](https://x.com/nikkei/status/2125721869907038592)）
+- 06:53 @forbesjapan：（Forbes JAPAN）董事會為何該具備質疑科技的能力（[原文](https://x.com/forbesjapan/status/2125724624248070279)）
+- 07:00 @forbesjapan：（Forbes JAPAN）減少額超一半約1328億美元集中在8位科技富豪（[原文](https://x.com/forbesjapan/status/2125726385386008631)）
+- 07:00 @nikkei：東海道新幹線希望號停靠站，乘車口小型電子顯示板將撤除（[原文](https://x.com/nikkei/status/2125726403182145620)）
+- 07:04 @nikkei：中期配息再投資總額11兆日圓，銀行等價值股或受惠（[原文](https://x.com/nikkei/status/2125727406941978714)）
+- 07:07 @forbesjapan：（Forbes JAPAN）最危險的商業課題是人人學會忍耐的問題（[原文](https://x.com/forbesjapan/status/2125728146641281413)）
+- 07:15 @forbesjapan：（Forbes JAPAN）滿意度74%銀髮夫妻的長久祕訣：談話時間與務實分工（[原文](https://x.com/forbesjapan/status/2125730159986897363)）
+- 07:16 @forbesjapan：（Forbes JAPAN）自家「銷售週期」與客戶「採購週期」不一致（[原文](https://x.com/forbesjapan/status/2125730411456422213)）
+- 07:18 @nicosokufx：（にこそく 引用）NY 道瓊「感覺空氣變了」（附 TradingView 黑五促銷 PR）（[原文](https://x.com/nicosokufx/status/2125730820094877907)）
+- 07:21 @forbesjapan：（Forbes JAPAN）領導者為何害怕要求高績效（[原文](https://x.com/forbesjapan/status/2125731669735076142)）
+- 07:30 @BloombergJapan：日本市場因股票回補反彈，AI 風險未散、債券料上漲（[原文](https://x.com/BloombergJapan/status/2125733874734924015)）
+- 07:30 @forbesjapan：（Forbes JAPAN）以美元穩定幣「OUSD」支付，入帳用戶錢包（[原文](https://x.com/forbesjapan/status/2125733934877319511)）
+- 07:36 @forbesjapan：（Forbes JAPAN）「困難客戶」與「有害客戶」界線，19個該斷關係徵兆（[原文](https://x.com/forbesjapan/status/2125735444814102668)）
+- 07:36 @nikkei：NEC 森田社長：「防衛裝備擴及數位領域」，日本企業有機會（[原文](https://x.com/nikkei/status/2125735459879821455)）
+- 07:37 @goto_finance：（後藤達也）通知：因感恩節，今晚（11/26）美股休市（[原文](https://x.com/goto_finance/status/2125735782233284611)）
+- 07:54 @forbesjapan：（Forbes JAPAN）「依此經過，11月21日上午6點19分左右，兩項重要疑慮已有相當強的驗證結果」（[原文](https://x.com/forbesjapan/status/2125739812200280120)）
+- 07:56 @forbesjapan：（Forbes JAPAN）人事評價前為前進職涯該自問的15個問題（[原文](https://x.com/forbesjapan/status/2125740477978956189)）
+- 08:00 @nikkei：Suntory BF 推出有濃稠度的「伊右衛門」，減輕照護者負擔（[原文](https://x.com/nikkei/status/2125741505285337227)）
+- 08:01 @forbesjapan：（Forbes JAPAN）美國快速成長產業的9個商業點子（[原文](https://x.com/forbesjapan/status/2125741737423610237)）
+- 08:02 @nikkei：墨西哥披索急跌，創2025年4月以來低點，意外降息適得其反（[原文](https://x.com/nikkei/status/2125742007305793926)）
+- 08:06 @forbesjapan：（Forbes JAPAN）深厚信任來自先付出信任的領導者（[原文](https://x.com/forbesjapan/status/2125742994565530023)）
+- 08:11 @nicosokufx：AI、半導體「美半導體股大幅收斂跌幅」（[原文](https://x.com/nicosokufx/status/2125744148431114659)）
+- 08:11 @forbesjapan：（Forbes JAPAN）不知職場定位時，考核面談該問上司的問題（[原文](https://x.com/forbesjapan/status/2125744252953182647)）
+- 08:15 @BloombergJapan：日股料反彈，企業業績期待支撐，AI 投資疑慮仍強（[原文](https://x.com/BloombergJapan/status/2125745238174044285)）
+- 08:15 @forbesjapan：（Forbes JAPAN）職場不正近半數人沉默，12月施行的修正公益通報者保護法（[原文](https://x.com/forbesjapan/status/2125745259582017846)）
+- 08:15 @forbesjapan：（Forbes JAPAN）Thiel 20日在142.29–144.85美元多次交易，取得 Palantir A 股85萬100股（[原文](https://x.com/forbesjapan/status/2125745260806697263)）
+- 08:16 @forbesjapan：（Forbes JAPAN）別自以為知道顧客要什麼（[原文](https://x.com/forbesjapan/status/2125745511030534501)）
+- 08:18 @nikkei：日經平均開盤反彈，受美道瓊上漲支撐（[原文](https://x.com/nikkei/status/2125746029274210416)）
+- 08:24 @nicosokufx：日股「日經平均、東證 Prime 均上漲居多」9:15（[原文](https://x.com/nicosokufx/status/2125747578197446782)）
+- 08:30 @nicosokufx：AI、半導體股「自昨日急跌轉為大幅上漲」（[原文](https://x.com/nicosokufx/status/2125748909289210328)）
+- 08:30 @BloombergJapan：歐洲央行就對沖基金風險調查銀行，含 BNP、Société Générale（[原文](https://x.com/BloombergJapan/status/2125749033603846592)）
+- 08:30 @forbesjapan：（Forbes JAPAN）輻射冷卻領域課題已非技術，而是如何建立與傳統技術競爭的市場（[原文](https://x.com/forbesjapan/status/2125749034522718441)）
+- 08:30 @nikkei：加州州長與川普就特赦互相交鋒（[原文](https://x.com/nikkei/status/2125749104533742052)）
+- 08:30 @nikkei：#好泡湯日：冬季泡湯注意溫差，血壓變動恐熱休克（[原文](https://x.com/nikkei/status/2125749105762656296)）
+- 08:39 @forbesjapan：（Forbes JAPAN）如何帶領營收團隊面對漫長複雜銷售週期（[原文](https://x.com/forbesjapan/status/2125751299492995242)）
+- 08:42 @nicosokufx：（にこそく 引用）日經平均「暴漲暴跌震盪行情」，AI、半導體股自急跌轉大漲（[原文](https://x.com/nicosokufx/status/2125752110402904391)）
+- 08:57 @fx_musashi：（シカウチ）自用的昨日整理與今日展望文章（[原文](https://x.com/fx_musashi/status/2125755817848934440)）
+- 08:59 @nicosokufx：日經平均「暴漲暴跌震盪行情」圖（[原文](https://x.com/nicosokufx/status/2125756349569212656)）
+- 09:00 @forbesjapan：（Forbes JAPAN）邀入全球知名投資人，一口氣擴大海外展開（[原文](https://x.com/forbesjapan/status/2125756584253182024)）
+- 09:00 @nikkei：扇貝黑色內臟「ウロ」做魚飼料，札幌新創（另一則貼文）（[原文](https://x.com/nikkei/status/2125756601801847150)）
+- 09:00 @BloombergJapan：比特幣急跌，挖礦公司再遭重擊，獲利惡化、持有幣賣壓（[原文](https://x.com/BloombergJapan/status/2125756608282038324)）
+- 09:15 @forbesjapan：（Forbes JAPAN）面試真正被看的是什麼【3選】（[原文](https://x.com/forbesjapan/status/2125760358921154799)）
+- 09:20 @forbesjapan：（Forbes JAPAN）化妝品含長留體內、永不消失的有害化學物質之疑慮（[原文](https://x.com/forbesjapan/status/2125761617430475111)）
+- 09:20 @nikkei：目的為高額保險診療的外國人，可取消在留資格（厚勞省）（[原文](https://x.com/nikkei/status/2125761632760381576)）
+- 09:22 @nikkei：日產設計部門新主管：「我最討厭無聊的車」（[原文](https://x.com/nikkei/status/2125762135267385416)）
+- 09:24 @nikkei：關芳弘文科相問責決議案由在野8黨派提出，27日表決，贊否拮抗（[原文](https://x.com/nikkei/status/2125762638923604277)）
+- 09:30 @forbesjapan：（Forbes JAPAN）「世界最強」產品加上技術革新可成日本支柱產業（[原文](https://x.com/forbesjapan/status/2125764134218457390)）
+- 09:30 @BloombergJapan：梅西感恩節遊行因NY強風預報史上首度延期，第100屆改28日舉行（[原文](https://x.com/BloombergJapan/status/2125764167508308186)）
+- 09:30 @nikkei：20多歲七成泡澡時看手機，看影片與 SNS（[原文](https://x.com/nikkei/status/2125764194335170926)）
+- 09:38 @nicosokufx：日股「日經平均、東證 Prime 均上漲居多」10:30（[原文](https://x.com/nicosokufx/status/2125766129218126294)）
+- 09:45 @forbesjapan：（Forbes JAPAN）「我不認為該把人類自由意志讓給 AI 系統，說我主張如此很荒謬」（發言者原文未標明）（[原文](https://x.com/forbesjapan/status/2125767908613882187)）
+- 09:48 @nicosokufx：日經平均「結局南極半導體」圖（[原文](https://x.com/nicosokufx/status/2125768532935967178)）
+- 10:00 @forbesjapan：Forbes JAPAN 1月號別冊『Trust by Design』11月26日發售（PR）（[原文](https://x.com/forbesjapan/status/2125771684649316645)）
+- 10:06 @nikkei：美消費股吸金，預先反映年終商戰，Walmart 創半年新高（[原文](https://x.com/nikkei/status/2125773209081393202)）
+- 10:08 @nikkei：「備戰日本海反擊」：韓國30年代部署核動力潛艦，日本也有討論（[原文](https://x.com/nikkei/status/2125773711672299838)）
+- 10:08 @nikkei：新型保險成長，網路與賠償責任占2成，產險收益來源改變（[原文](https://x.com/nikkei/status/2125773712771125476)）
+- 10:12 @nikkei：NEC：「SIer 絕不會消失」，以感測器與人共存（[原文](https://x.com/nikkei/status/2125774718217113950)）
+- 10:20 @nikkei：韓國出口額突破1兆美元，4成為半導體，三星、SK 依賴有隱憂（[原文](https://x.com/nikkei/status/2125776731055280610)）
+- 10:26 @nikkei：稅收再分配，自民「東京 VS 地方」對立，將議法人事業稅處理（[原文](https://x.com/nikkei/status/2125778242137215227)）
+- 10:30 @nikkei：高市首相以奈良柿子作句：「讓日本強盛富裕」（[原文](https://x.com/nikkei/status/2125779269284434196)）
+- 10:30 @nikkei：台灣地方選舉每月超1.8億次可疑連線，當局稱中國蒐集情報（[原文](https://x.com/nikkei/status/2125779294609698887)）
+- 10:30 @BloombergJapan：【日本市況】股票反彈，AI、半導體逢低買進；長期利率上升（[原文](https://x.com/BloombergJapan/status/2125779295133958335)）
+- 10:30 @nikkei：慶應大學以免疫相關物質等推定阿茲海默病進行階段（[原文](https://x.com/nikkei/status/2125779295767322674)）
+- 10:36 @nikkei：日產27年度將中國製 PHV「逆輸入」，補足日本先進電動車（[原文](https://x.com/nikkei/status/2125780757666766868)）
+- 10:40 @nikkei：照護 DX 加給擴大至訪問、通所（厚勞省研議）（[原文](https://x.com/nikkei/status/2125781764945727930)）
+- 10:42 @nikkei：土耳其要求修改歐洲製 EV 優惠案，「與日本步調一致」（[原文](https://x.com/nikkei/status/2125782267930739020)）
+- 10:45 @BloombergJapan：網安 Palo Alto 前高層提告，指控不實會計（[原文](https://x.com/BloombergJapan/status/2125783075061682374)）
+- 10:46 @nikkei：台股 ETF 登陸日本1年關注升高，行情調整正念關頭（[原文](https://x.com/nikkei/status/2125783277294223360)）
+- 10:48 @nicosokufx：日經平均「AI、半導體股回補！反彈」（[原文](https://x.com/nicosokufx/status/2125783656145076645)）
+- 11:00 @nikkei：最大產地廣島牡蠣連兩年大量死亡（[原文](https://x.com/nikkei/status/2125786799146446942)）
+- 11:00 @nikkei：日經平均午盤收高875日圓，期待 AI 賣壓告一段落與配息再投資助攻（[原文](https://x.com/nikkei/status/2125786804477423662)）
+- 11:00 @BloombergJapan：英國央行不排除12月追加升息，警戒能源高漲的通膨（[原文](https://x.com/BloombergJapan/status/2125786858135118194)）
+- 11:11 @nicosokufx：日股「總整理」前場收盤（[原文](https://x.com/nicosokufx/status/2125789449003131219)）
+- 11:15 @BloombergJapan：JPMorgan 證券將聘 Citi ECM 本部長中山裕子（關係者）（[原文](https://x.com/BloombergJapan/status/2125790639556071784)）
+- 11:30 @forbesjapan：（Forbes JAPAN）民主黨取得兩院多數後承諾檢視川普關稅，但能否撤回不明（[原文](https://x.com/forbesjapan/status/2125794332812931088)）
+- 11:38 @nikkei：公寓行情轉折點：「實需不減」「投機過度」專家看法（[原文](https://x.com/nikkei/status/2125796360809058553)）
+- 11:46 @BloombergJapan：川普新關稅對美國經濟的影響，涵蓋含日本在內14個貿易對象（[原文](https://x.com/BloombergJapan/status/2125798198631424218)）
